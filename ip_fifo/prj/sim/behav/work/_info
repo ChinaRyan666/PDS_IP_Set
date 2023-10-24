@@ -1,0 +1,162 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/sim/behav
+vfifo_generator_0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 B^cEeomT5JV:zn`06;5_M3
+IPk8>JFP]T=D6R8GSX^7j=1
+R0
+Z2 w1666662916
+8C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v
+FC:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v
+L0 18
+Z3 OL;L;10.4;61
+!s108 1666663322.657000
+!s107 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v|-work|work|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vfifo_rd
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 5FQ33BHAoBI[`E2l3eZcU2
+I[hGcRIXLQlM^c`^56b:dj2
+R0
+w1657004636
+8C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_rd.v
+FC:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_rd.v
+Z5 L0 23
+R3
+!s108 1666663322.328000
+!s107 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_rd.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_rd.v|-work|work|
+!i113 0
+R4
+vfifo_wr
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 bSkOJh;zkRcKjDP8EK:6>1
+ITU;EOIL7oGNhjMUTicgh22
+R0
+w1657004699
+8C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_wr.v
+FC:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_wr.v
+R5
+R3
+!s108 1666663322.389000
+!s107 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_wr.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_wr.v|-work|work|
+!i113 0
+R4
+vip_fifo
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 i`oKbMiYfJ?>oTHfZTF;[1
+I6kHn>c?mk>=S<TRESNSz81
+R0
+w1657006898
+8C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v
+FC:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v
+R5
+R3
+!s108 1666663322.265000
+!s107 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v|-work|work|
+!i113 0
+R4
+vipml_fifo_ctrl_v1_3
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 P3gXkkID5`N:B5iWMh33i2
+I2GHgAC;MY0_U0eXeDLQnW2
+R0
+w1653857514
+8C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_ctrl_v1_3.v
+FC:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_ctrl_v1_3.v
+L0 21
+R3
+!s108 1666663322.449000
+!s107 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_ctrl_v1_3.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_ctrl_v1_3.v|-work|work|
+!i113 0
+R4
+vipml_fifo_v1_6_fifo_generator_0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 RXTh[zzU0OIO@9eTWlW5A0
+IzK[8:ClnK6>nUWIT3lo>41
+R0
+R2
+8C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_v1_6_fifo_generator_0.v
+FC:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_v1_6_fifo_generator_0.v
+L0 25
+R3
+!s108 1666663322.592000
+!s107 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_v1_6_fifo_generator_0.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_v1_6_fifo_generator_0.v|-work|work|
+!i113 0
+R4
+vipml_sdpram_v1_6_fifo_generator_0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?fAJeKbJgf0L_oQjckZFO1
+I?SJAoi6BhT8zOSjB@MW4I0
+R0
+R2
+8C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v
+FC:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v
+L0 20
+R3
+!s108 1666663322.518000
+!s107 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v|-work|work|
+!i113 0
+R4
+vtb_ip_fifo
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 To=>i5H7[T[?CiTChPPFJ1
+I7M48Ch=8a^A7IFFb_hVF`0
+R0
+w1666086457
+8C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/sim/tb/tb_ip_fifo.v
+FC:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/sim/tb/tb_ip_fifo.v
+L0 22
+R3
+!s108 1666663322.721000
+!s107 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/sim/tb/tb_ip_fifo.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/sim/tb/tb_ip_fifo.v|-work|work|
+!i113 0
+R4

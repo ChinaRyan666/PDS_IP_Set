@@ -1,0 +1,67 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/prj/sim/behav
+vip_pll
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 4R8hO?GdcDJ`CedOnDDdi2
+IR>cg17b@l_k<>@ONJVJ3:2
+R0
+w1662537205
+8C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/rtl/ip_pll.v
+FC:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/rtl/ip_pll.v
+L0 22
+Z2 OL;L;10.4;61
+!s108 1666663859.687000
+!s107 C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/rtl/ip_pll.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/rtl/ip_pll.v|-work|work|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vpll_clk
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 5a1dFianhiD5WdHZVh02Q1
+ISTkakbkH9o:?5]96BoCfB3
+R0
+w1666663548
+8C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/prj/ipcore/pll_clk/pll_clk.v
+FC:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/prj/ipcore/pll_clk/pll_clk.v
+L0 20
+R2
+!s108 1666663859.788000
+!s107 C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/prj/ipcore/pll_clk/pll_clk.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/prj/ipcore/pll_clk/pll_clk.v|-work|work|
+!i113 0
+R3
+vtb_ip_pll
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 noQfHA[lznRFA:iKl5?h>3
+IYoQEIZ2D^UXQl9Tl@ST_H1
+R0
+w1665997972
+8C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/sim/tb/tb_ip_pll.v
+FC:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/sim/tb/tb_ip_pll.v
+L0 6
+R2
+!s108 1666663859.879000
+!s107 C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/sim/tb/tb_ip_pll.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/sim/tb/tb_ip_pll.v|-work|work|
+!i113 0
+R3

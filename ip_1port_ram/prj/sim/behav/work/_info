@@ -1,0 +1,105 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/behav
+vip_1port_ram
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 c9zg3ie>Y3QiL80e3<5D=2
+I9<NaG7=IVW[JX>03ZoXGZ3
+R0
+w1666059592
+8C:/Users/ch/Desktop/2022.1/ip_1port_ram/rtl/ip_1port_ram.v
+FC:/Users/ch/Desktop/2022.1/ip_1port_ram/rtl/ip_1port_ram.v
+L0 22
+Z2 OL;L;10.4;61
+!s108 1666061202.961000
+!s107 C:/Users/ch/Desktop/2022.1/ip_1port_ram/rtl/ip_1port_ram.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_1port_ram/rtl/ip_1port_ram.v|-work|work|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vip_1port_ram_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 WmGRz6H7jaKfFO2SLmC`Q0
+ICQ89d9a_hWBXiTS0ne1bJ1
+R0
+w1666059633
+8C:/Users/ch/Desktop/2022.1/ip_1port_ram/sim/tb/ip_1port_ram_tb.v
+FC:/Users/ch/Desktop/2022.1/ip_1port_ram/sim/tb/ip_1port_ram_tb.v
+L0 2
+R2
+!s108 1666061203.258000
+!s107 C:/Users/ch/Desktop/2022.1/ip_1port_ram/sim/tb/ip_1port_ram_tb.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_1port_ram/sim/tb/ip_1port_ram_tb.v|-work|work|
+!i113 0
+R3
+vipml_spram_v1_5_ram_1port
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 h=:9E_O>E7z6z8QhU]WhR1
+I;5:Zo1NA4P@Ali<:3[l[O0
+R0
+Z4 w1665457411
+8C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v
+FC:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v
+L0 19
+R2
+!s108 1666061203.086000
+!s107 C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v|-work|work|
+!i113 0
+R3
+vram_1port
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 =RPD2N<Uj84F^>8fze2lL2
+IIFYR6G6V>2;8[N^05GGnV1
+R0
+R4
+8C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/ipcore/ram_1port/ram_1port.v
+FC:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/ipcore/ram_1port/ram_1port.v
+L0 18
+R2
+!s108 1666061203.196000
+!s107 C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/ipcore/ram_1port/ram_1port.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/ipcore/ram_1port/ram_1port.v|-work|work|
+!i113 0
+R3
+vram_rw
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 g]X_Sd6eiO7CFO:AV_fM?1
+I4SWOaDFAON:Kb4`0EiWGm1
+R0
+w1656399997
+8C:/Users/ch/Desktop/2022.1/ip_1port_ram/rtl/ram_rw.v
+FC:/Users/ch/Desktop/2022.1/ip_1port_ram/rtl/ram_rw.v
+L0 23
+R2
+!s108 1666061203.024000
+!s107 C:/Users/ch/Desktop/2022.1/ip_1port_ram/rtl/ram_rw.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_1port_ram/rtl/ram_rw.v|-work|work|
+!i113 0
+R3

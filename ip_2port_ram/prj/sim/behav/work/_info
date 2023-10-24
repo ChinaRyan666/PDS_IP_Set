@@ -1,0 +1,143 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/sim/behav
+vip_2port_ram
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 z5SmXBb5M@kI<94]FZ9ae2
+IWZa7I`@6P7VSSLg:?78bG1
+R0
+w1666062320
+8C:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ip_2port_ram.v
+FC:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ip_2port_ram.v
+Z2 L0 23
+Z3 OL;L;10.4;61
+!s108 1666072220.045000
+!s107 C:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ip_2port_ram.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ip_2port_ram.v|-work|work|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vip_2port_ram_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 N6onTVb^JoU`kl9CT[:=U1
+ImHkdG^iJ=OC12VZ4cTkV?2
+R0
+w1666072209
+8C:/Users/ch/Desktop/2022.1/ip_2port_ram/sim/tb/ip_2port_ram_tb.v
+FC:/Users/ch/Desktop/2022.1/ip_2port_ram/sim/tb/ip_2port_ram_tb.v
+L0 2
+R3
+!s108 1666072220.306000
+!s107 C:/Users/ch/Desktop/2022.1/ip_2port_ram/sim/tb/ip_2port_ram_tb.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_2port_ram/sim/tb/ip_2port_ram_tb.v|-work|work|
+!i113 0
+R4
+vipml_sdpram_v1_6_ram_2port
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 fjZ=k_D]Pm?n1GW4ee8`;1
+IzU3N0NjAe1P_7nR47h<fQ2
+R0
+Z5 w1665459243
+8C:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/ram_2port/rtl/ipml_sdpram_v1_6_ram_2port.v
+FC:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/ram_2port/rtl/ipml_sdpram_v1_6_ram_2port.v
+Z6 L0 20
+R3
+!s108 1666072220.102000
+!s107 C:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/ram_2port/rtl/ipml_sdpram_v1_6_ram_2port.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/ram_2port/rtl/ipml_sdpram_v1_6_ram_2port.v|-work|work|
+!i113 0
+R4
+vpll_clk
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 E40`J5a]<Z2G4><:T46>X0
+IfoDaQ>@eFD_Rd@8U6dmB11
+R0
+w1656554459
+8C:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/pll_clk/pll_clk.v
+FC:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/pll_clk/pll_clk.v
+R6
+R3
+!s108 1666072220.251000
+!s107 C:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/pll_clk/pll_clk.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/pll_clk/pll_clk.v|-work|work|
+!i113 0
+R4
+vram_2port
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 c73kJF`nl56cG`]KmABTI3
+IQBN<;f4E@0OjdVzmQFfPT1
+R0
+R5
+8C:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/ram_2port/ram_2port.v
+FC:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/ram_2port/ram_2port.v
+L0 18
+R3
+!s108 1666072220.180000
+!s107 C:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/ram_2port/ram_2port.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_2port_ram/prj/ipcore/ram_2port/ram_2port.v|-work|work|
+!i113 0
+R4
+vram_rd
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 2WlF_HE]31[`5zbBkIRV;3
+I3h8FPLRHliQ9N2UakJLDz3
+R0
+w1656485904
+8C:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ram_rd.v
+FC:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ram_rd.v
+R2
+R3
+!s108 1666072219.977000
+!s107 C:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ram_rd.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ram_rd.v|-work|work|
+!i113 0
+R4
+vram_wr
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 `1zUa:YMZChee@:<?HHzS0
+I=joQNX]MYV0SVG?^Gak?92
+R0
+w1656485760
+8C:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ram_wr.v
+FC:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ram_wr.v
+R2
+R3
+!s108 1666072219.915000
+!s107 C:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ram_wr.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_2port_ram/rtl/ram_wr.v|-work|work|
+!i113 0
+R4

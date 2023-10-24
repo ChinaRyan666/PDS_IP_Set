@@ -1,0 +1,112 @@
+# Reading F:/modeltech64_10.4/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# do {run_post_syn_compile.tcl}
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work ./work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet usim F:/modeltech64_10.4/pango_sim_libraries/usim 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet adc F:/modeltech64_10.4/pango_sim_libraries/adc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ddrc F:/modeltech64_10.4/pango_sim_libraries/ddrc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ddrphy F:/modeltech64_10.4/pango_sim_libraries/ddrphy 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet hsst_e2 F:/modeltech64_10.4/pango_sim_libraries/hsst_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet iolhr_dft F:/modeltech64_10.4/pango_sim_libraries/iolhr_dft 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ipal_e1 F:/modeltech64_10.4/pango_sim_libraries/ipal_e1 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet pciegen2 F:/modeltech64_10.4/pango_sim_libraries/pciegen2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:46:24 on Oct 18,2022
+# vlog -reportprogress 300 ip_1port_ram_syn.vm -work work 
+# -- Compiling module ipml_spram_v1_5_ram_1port
+# -- Compiling module ram_1port
+# -- Compiling module ram_rw
+# -- Compiling module ip_1port_ram
+# 
+# Top level modules:
+# 	ip_1port_ram
+# End time: 10:46:24 on Oct 18,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:46:24 on Oct 18,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2022.1/ip_1port_ram/sim/tb/ip_1port_ram_tb.v -work work 
+# -- Compiling module ip_1port_ram_tb
+# 
+# Top level modules:
+# 	ip_1port_ram_tb
+# End time: 10:46:24 on Oct 18,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# do {run_post_syn_simulate.tcl}
+# vsim -gui -do "do {run_post_syn_compile.tcl};do {run_post_syn_simulate.tcl}" -l run_post_syn_simulate.log 
+# Start time: 10:46:24 on Oct 18,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/synth/work.ip_1port_ram_tb
+# Loading work.ip_1port_ram_tb
+# Loading usim.GTP_GRS
+# Refreshing C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/synth/work.ip_1port_ram
+# Loading work.ip_1port_ram
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.GTP_INV
+# Loading usim.GTP_INV
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.GTP_OUTBUF
+# Loading usim.GTP_OUTBUF
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.GTP_INBUF
+# Loading usim.GTP_INBUF
+# Refreshing C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/synth/work.ram_1port
+# Loading work.ram_1port
+# Refreshing C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/synth/work.ipml_spram_v1_5_ram_1port
+# Loading work.ipml_spram_v1_5_ram_1port
+# Loading usim.GTP_DRM9K
+# Refreshing C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/synth/work.ram_rw
+# Loading work.ram_rw
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.GTP_LUT2
+# Loading usim.GTP_LUT2
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.GTP_LUT5CARRY
+# Loading usim.GTP_LUT5CARRY
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.GTP_LUT3
+# Loading usim.GTP_LUT3
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.GTP_LUT4
+# Loading usim.GTP_LUT4
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.GTP_LUT5
+# Loading usim.GTP_LUT5
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.GTP_DFF_C
+# Loading usim.GTP_DFF_C
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.GTP_LUT1
+# Loading usim.GTP_LUT1
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.INT_LUTMUX4_UDP
+# Loading usim.INT_LUTMUX4_UDP
+# Refreshing F:/modeltech64_10.4/pango_sim_libraries/usim.INT_LUTMUX2_UDP
+# Loading usim.INT_LUTMUX2_UDP
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# Break key hit
+# Break in Module GTP_LUT5CARRY at E:/PDS_2022.1/Pango/PDS_2022.1/arch/vendor/pango/verilog/simulation/GTP_LUT5CARRY.v line 83
+# End time: 10:46:34 on Oct 18,2022, Elapsed time: 0:00:10
+# Errors: 0, Warnings: 1

@@ -1,0 +1,1 @@
+.rtl_screen -top_module {ip_pll} -include_path {<C:/Users/ch/Desktop/2022.1/ip_pll/prj>} -design_files {<C:/Users/ch/Desktop/2022.1/ip_pll/rtl/ip_pll.v|work><C:/Users/ch/Desktop/2022.1/ip_pll/prj/ipcore/pll_clk/pll_clk.v|work>}

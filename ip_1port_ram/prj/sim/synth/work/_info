@@ -1,0 +1,105 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/synth
+vip_1port_ram
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 4Rj7XQUWL5@RDZiBgLHAj2
+IhOSTP6nD;>gQEU<E:cLUU3
+R0
+Z2 w1666060520
+Z3 8ip_1port_ram_syn.vm
+Z4 Fip_1port_ram_syn.vm
+L0 650
+Z5 OL;L;10.4;61
+Z6 !s108 1666061184.473000
+Z7 !s107 ip_1port_ram_syn.vm|
+Z8 !s90 -reportprogress|300|ip_1port_ram_syn.vm|-work|work|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vip_1port_ram_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 WmGRz6H7jaKfFO2SLmC`Q0
+ICQ89d9a_hWBXiTS0ne1bJ1
+R0
+w1666059633
+8C:/Users/ch/Desktop/2022.1/ip_1port_ram/sim/tb/ip_1port_ram_tb.v
+FC:/Users/ch/Desktop/2022.1/ip_1port_ram/sim/tb/ip_1port_ram_tb.v
+L0 2
+R5
+!s108 1666061184.817000
+!s107 C:/Users/ch/Desktop/2022.1/ip_1port_ram/sim/tb/ip_1port_ram_tb.v|
+!s90 -reportprogress|300|C:/Users/ch/Desktop/2022.1/ip_1port_ram/sim/tb/ip_1port_ram_tb.v|-work|work|
+!i113 0
+R9
+vipml_spram_v1_5_ram_1port
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 OJ<e8DYP?SeXz9LQ3KW1I0
+IO>@7mOHEQHNEUXUiRP0:i1
+R0
+R2
+R3
+R4
+L0 5
+R5
+R6
+R7
+R8
+!i113 0
+R9
+vram_1port
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 aha6VSm^o<E_DG3^1RoGW2
+Ii7Z=]jkEYHlfWSTCcXbV>1
+R0
+R2
+R3
+R4
+L0 98
+R5
+R6
+R7
+R8
+!i113 0
+R9
+vram_rw
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 O@UAF_Lgh6McRb7P4JfgN3
+I4DLD>Q6O6DON@Ihlk^ne=1
+R0
+R2
+R3
+R4
+L0 121
+R5
+R6
+R7
+R8
+!i113 0
+R9

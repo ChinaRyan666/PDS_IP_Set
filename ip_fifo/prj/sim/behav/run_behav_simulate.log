@@ -1,0 +1,177 @@
+# Reading F:/modeltech64_10.4/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# do {run_behav_compile.tcl}
+# ** Error: (vlib-35) Failed to create directory "work".
+# 
+# File exists. (errno = EEXIST)
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work ./work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet usim F:/modeltech64_10.4/pango_sim_libraries/usim 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet adc F:/modeltech64_10.4/pango_sim_libraries/adc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ddrc F:/modeltech64_10.4/pango_sim_libraries/ddrc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ddrphy F:/modeltech64_10.4/pango_sim_libraries/ddrphy 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet hsst_e2 F:/modeltech64_10.4/pango_sim_libraries/hsst_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet iolhr_dft F:/modeltech64_10.4/pango_sim_libraries/iolhr_dft 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ipal_e1 F:/modeltech64_10.4/pango_sim_libraries/ipal_e1 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet pciegen2 F:/modeltech64_10.4/pango_sim_libraries/pciegen2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:02:02 on Oct 25,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v -work work 
+# -- Compiling module ip_fifo
+# 
+# Top level modules:
+# 	ip_fifo
+# End time: 10:02:02 on Oct 25,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:02:02 on Oct 25,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_rd.v -work work 
+# -- Compiling module fifo_rd
+# 
+# Top level modules:
+# 	fifo_rd
+# End time: 10:02:02 on Oct 25,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:02:02 on Oct 25,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_wr.v -work work 
+# -- Compiling module fifo_wr
+# 
+# Top level modules:
+# 	fifo_wr
+# End time: 10:02:02 on Oct 25,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:02:02 on Oct 25,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_ctrl_v1_3.v -work work 
+# -- Compiling module ipml_fifo_ctrl_v1_3
+# 
+# Top level modules:
+# 	ipml_fifo_ctrl_v1_3
+# End time: 10:02:02 on Oct 25,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:02:02 on Oct 25,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v -work work 
+# -- Compiling module ipml_sdpram_v1_6_fifo_generator_0
+# 
+# Top level modules:
+# 	ipml_sdpram_v1_6_fifo_generator_0
+# End time: 10:02:02 on Oct 25,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:02:02 on Oct 25,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_v1_6_fifo_generator_0.v -work work 
+# -- Compiling module ipml_fifo_v1_6_fifo_generator_0
+# 
+# Top level modules:
+# 	ipml_fifo_v1_6_fifo_generator_0
+# End time: 10:02:02 on Oct 25,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:02:02 on Oct 25,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v -work work 
+# -- Compiling module fifo_generator_0
+# 
+# Top level modules:
+# 	fifo_generator_0
+# End time: 10:02:02 on Oct 25,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:02:02 on Oct 25,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/sim/tb/tb_ip_fifo.v -work work 
+# -- Compiling module tb_ip_fifo
+# 
+# Top level modules:
+# 	tb_ip_fifo
+# End time: 10:02:02 on Oct 25,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# do {run_behav_simulate.tcl}
+# vsim -gui -do "do {run_behav_compile.tcl};do {run_behav_simulate.tcl}" -l run_behav_simulate.log 
+# Start time: 10:02:02 on Oct 25,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/sim/behav/work.tb_ip_fifo
+# Loading work.tb_ip_fifo
+# Loading usim.GTP_GRS
+# Refreshing C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/sim/behav/work.ip_fifo
+# Loading work.ip_fifo
+# Refreshing C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/sim/behav/work.fifo_generator_0
+# Loading work.fifo_generator_0
+# Refreshing C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/sim/behav/work.ipml_fifo_v1_6_fifo_generator_0
+# Loading work.ipml_fifo_v1_6_fifo_generator_0
+# Refreshing C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/sim/behav/work.ipml_sdpram_v1_6_fifo_generator_0
+# Loading work.ipml_sdpram_v1_6_fifo_generator_0
+# Refreshing C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/sim/behav/work.ipml_fifo_ctrl_v1_3
+# Loading work.ipml_fifo_ctrl_v1_3
+# Refreshing C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/sim/behav/work.fifo_wr
+# Loading work.fifo_wr
+# Refreshing C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/sim/behav/work.fifo_rd
+# Loading work.fifo_rd
+# Loading usim.GTP_DRM9K
+# ** Warning: (vsim-3015) C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(82): [PCDPC] - Port size (9) does not match connection size (8) for port 'wr_water_level'. The port definition is at: C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_ip_fifo/u_ip_fifo/u_fifo_generator_0 File: C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v
+# ** Warning: (vsim-3015) C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(82): [PCDPC] - Port size (9) does not match connection size (8) for port 'rd_water_level'. The port definition is at: C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v(39).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_ip_fifo/u_ip_fifo/u_fifo_generator_0 File: C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+add wave -position insertpoint  \
+sim:/tb_ip_fifo/u_ip_fifo/sys_clk \
+sim:/tb_ip_fifo/u_ip_fifo/sys_rst_n \
+sim:/tb_ip_fifo/u_ip_fifo/fifo_wr_en \
+sim:/tb_ip_fifo/u_ip_fifo/fifo_rd_en \
+sim:/tb_ip_fifo/u_ip_fifo/fifo_din \
+sim:/tb_ip_fifo/u_ip_fifo/fifo_dout \
+sim:/tb_ip_fifo/u_ip_fifo/almost_full \
+sim:/tb_ip_fifo/u_ip_fifo/almost_empty \
+sim:/tb_ip_fifo/u_ip_fifo/fifo_full \
+sim:/tb_ip_fifo/u_ip_fifo/fifo_empty \
+sim:/tb_ip_fifo/u_ip_fifo/fifo_wr_data_count \
+sim:/tb_ip_fifo/u_ip_fifo/fifo_rd_data_count \
+sim:/tb_ip_fifo/u_ip_fifo/almost_empty_d0 \
+sim:/tb_ip_fifo/u_ip_fifo/almost_empty_d1 \
+sim:/tb_ip_fifo/u_ip_fifo/almost_empty_syn \
+sim:/tb_ip_fifo/u_ip_fifo/almost_full_d0 \
+sim:/tb_ip_fifo/u_ip_fifo/almost_full_d1 \
+sim:/tb_ip_fifo/u_ip_fifo/almost_full_syn
+run 10us
+run
+run
+run -continue
+run -all
+reatart
+# invalid command name "reatart"
+run 10us
+# End time: 10:05:08 on Oct 25,2022, Elapsed time: 0:03:06
+# Errors: 1, Warnings: 3

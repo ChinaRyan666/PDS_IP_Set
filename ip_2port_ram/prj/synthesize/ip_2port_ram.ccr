@@ -1,0 +1,79 @@
+##### Written on 2022/10/25 09:52:07 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL22G-6MBG324
+
+Top Module : 
+	ip_2port_ram
+
+Constraint File(s) : 
+	C:/Users/ch/Desktop/2021.4-SP1.2/ip_2port_ram/prj/ip_2port_ram.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 0 critical warning(s), 31 warning(s), out of 11 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+
+
+
+
+Constraints with issues:
+********************************************
+
+
+
+
+
+
+
+
+
+W: ConstraintEditor-4019: Port 'clk_25m' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'clk_50m' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'locked' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_addr[0]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_addr[1]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_addr[2]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_addr[3]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_addr[4]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_data[0]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_data[1]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_data[2]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_data[3]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_data[4]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_data[5]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_data[6]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_data[7]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_rd_en' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_addr[0]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_addr[1]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_addr[2]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_addr[3]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_addr[4]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_data[0]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_data[1]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_data[2]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_data[3]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_data[4]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_data[5]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_data[6]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_data[7]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ram_wr_en' unspecified I/O constraint.
+
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+
+
+
+

@@ -1,0 +1,114 @@
+# Reading F:/modeltech64_10.4/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# do {run_behav_compile.tcl}
+# ** Error: (vlib-35) Failed to create directory "work".
+# 
+# File exists. (errno = EEXIST)
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work ./work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet usim F:/modeltech64_10.4/pango_sim_libraries/usim 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet adc F:/modeltech64_10.4/pango_sim_libraries/adc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ddrc F:/modeltech64_10.4/pango_sim_libraries/ddrc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ddrphy F:/modeltech64_10.4/pango_sim_libraries/ddrphy 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet hsst_e2 F:/modeltech64_10.4/pango_sim_libraries/hsst_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet iolhr_dft F:/modeltech64_10.4/pango_sim_libraries/iolhr_dft 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ipal_e1 F:/modeltech64_10.4/pango_sim_libraries/ipal_e1 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet pciegen2 F:/modeltech64_10.4/pango_sim_libraries/pciegen2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:46:42 on Oct 18,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2022.1/ip_1port_ram/rtl/ip_1port_ram.v -work work 
+# -- Compiling module ip_1port_ram
+# 
+# Top level modules:
+# 	ip_1port_ram
+# End time: 10:46:42 on Oct 18,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:46:43 on Oct 18,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2022.1/ip_1port_ram/rtl/ram_rw.v -work work 
+# -- Compiling module ram_rw
+# 
+# Top level modules:
+# 	ram_rw
+# End time: 10:46:43 on Oct 18,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:46:43 on Oct 18,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v -work work 
+# -- Compiling module ipml_spram_v1_5_ram_1port
+# 
+# Top level modules:
+# 	ipml_spram_v1_5_ram_1port
+# End time: 10:46:43 on Oct 18,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:46:43 on Oct 18,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/ipcore/ram_1port/ram_1port.v -work work 
+# -- Compiling module ram_1port
+# 
+# Top level modules:
+# 	ram_1port
+# End time: 10:46:43 on Oct 18,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:46:43 on Oct 18,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2022.1/ip_1port_ram/sim/tb/ip_1port_ram_tb.v -work work 
+# -- Compiling module ip_1port_ram_tb
+# 
+# Top level modules:
+# 	ip_1port_ram_tb
+# End time: 10:46:43 on Oct 18,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# do {run_behav_simulate.tcl}
+# vsim -gui -do "do {run_behav_compile.tcl};do {run_behav_simulate.tcl}" -l run_behav_simulate.log 
+# Start time: 10:46:43 on Oct 18,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/behav/work.ip_1port_ram_tb
+# Loading work.ip_1port_ram_tb
+# Loading usim.GTP_GRS
+# Refreshing C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/behav/work.ip_1port_ram
+# Loading work.ip_1port_ram
+# Refreshing C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/behav/work.ram_1port
+# Loading work.ram_1port
+# Refreshing C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/behav/work.ipml_spram_v1_5_ram_1port
+# Loading work.ipml_spram_v1_5_ram_1port
+# Refreshing C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/sim/behav/work.ram_rw
+# Loading work.ram_rw
+# Loading usim.GTP_DRM9K
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# IPSpecCheck: 01030300 ipml_flex_spram parameter setting error !!!: c_ADDR_WIDTH must between 8-20
+# End time: 10:48:09 on Oct 18,2022, Elapsed time: 0:01:26
+# Errors: 0, Warnings: 1

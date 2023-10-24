@@ -1,0 +1,48 @@
+##### Written on 2022/10/25 09:58:13 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL22G-6MBG324
+
+Top Module : 
+	ip_fifo
+
+Constraint File(s) : 
+	C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ip_fifo.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 0 critical warning(s), 0 warning(s), out of 11 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+
+
+
+
+Constraints with issues:
+********************************************
+
+
+
+
+
+
+
+
+
+
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+
+
+
+

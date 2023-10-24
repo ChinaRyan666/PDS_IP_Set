@@ -1,0 +1,2195 @@
+[Info] [2022-6-23 16:21:41] /***************************Start jtagserver***************************/
+[Info] [2022-6-23 16:21:41] Path: J:/PDS_2021.4/pango/PDS_2021.4-SP1.2/bin
+[Info] [2022-6-23 16:21:41] Version: 96435
+[Debug] [2022-6-23 16:21:44] Add a new user_thread, socket descriptor is 752 user_thread id is 0000000000002548
+[Debug] [2022-6-23 16:21:44] After adding, map size is : 1
+[Debug] [2022-6-23 16:21:44] Add a new user_thread, socket descriptor is 724 user_thread id is 0000000000002548
+[Debug] [2022-6-23 16:21:44] After adding, map size is : 2
+[Debug] [2022-6-23 16:21:44] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-6-23 16:21:44] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-6-23 16:21:44] Remove the header data from the client, index : 0
+[Debug] [2022-6-23 16:21:44] _total_bytes_size : 158
+[Debug] [2022-6-23 16:21:44] Remove the header data from the client, index : 0
+[Debug] [2022-6-23 16:21:44] _total_bytes_size : 96
+[Debug] [2022-6-23 16:21:44] cmd id :40010cmd name : get_cable_paras
+[Debug] [2022-6-23 16:21:47] cmd operation get_cable_paras releases locker
+[Debug] [2022-6-23 16:21:47] Remove the header data from the client, index : 0
+[Debug] [2022-6-23 16:21:47] _total_bytes_size : 90
+[Debug] [2022-6-23 16:21:47] cmd id :10001cmd name : open_cable
+[Info] [2022-6-28 16:16:29] /***************************Start jtagserver***************************/
+[Info] [2022-6-28 16:16:29] Path: J:/PDS_2021.4/pango/PDS_2021.4-SP1.2/bin
+[Info] [2022-6-28 16:16:29] Version: 96435
+[Debug] [2022-6-28 16:16:32] Add a new user_thread, socket descriptor is 748 user_thread id is 00000000000026B0
+[Debug] [2022-6-28 16:16:32] After adding, map size is : 1
+[Debug] [2022-6-28 16:16:32] Add a new user_thread, socket descriptor is 720 user_thread id is 00000000000026B0
+[Debug] [2022-6-28 16:16:32] After adding, map size is : 2
+[Debug] [2022-6-28 16:16:32] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-6-28 16:16:32] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-6-28 16:16:32] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:16:32] _total_bytes_size : 158
+[Debug] [2022-6-28 16:16:32] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:16:32] _total_bytes_size : 96
+[Debug] [2022-6-28 16:16:32] cmd id :40010cmd name : get_cable_paras
+[Debug] [2022-6-28 16:16:34] cmd operation get_cable_paras releases locker
+[Debug] [2022-6-28 16:16:34] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:16:34] _total_bytes_size : 90
+[Debug] [2022-6-28 16:16:34] cmd id :10001cmd name : open_cable
+[Debug] [2022-6-28 16:16:35] the idcode from the scanning is: 0x20303899
+[Debug] [2022-6-28 16:16:35] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:35] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:35] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:35] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:35] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:35] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:35] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:35] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:35] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:35] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:35] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:35] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:35] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:35] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:35] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:35] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:35] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:35] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:35] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:36] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:36] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:36] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:36] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:36] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:36] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:36] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:36] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:36] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:36] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:36] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:36] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:36] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:36] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:36] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:36] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:36] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:36] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:36] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:36] cmd operation open_cable releases locker
+[Debug] [2022-6-28 16:16:43] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:16:43] _total_bytes_size : 127
+[Debug] [2022-6-28 16:16:43] cmd id :2711cmd name : open_cable
+[Debug] [2022-6-28 16:16:43] the idcode from the scanning is: 0x20303899
+[Debug] [2022-6-28 16:16:43] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:43] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:43] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:43] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:43] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:43] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:43] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:43] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:43] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:43] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:43] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:43] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:43] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:43] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:44] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:44] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:44] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:44] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:44] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:44] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:44] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:44] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:44] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:44] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:44] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:44] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:44] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:44] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:44] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:44] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:44] cmd operation open_cable releases locker
+[Debug] [2022-6-28 16:16:55] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:16:55] _total_bytes_size : 19e
+[Debug] [2022-6-28 16:16:55] cmd id :2712cmd name : configure
+[Debug] [2022-6-28 16:16:55] the idcode from the scanning is: 0x20303899
+[Debug] [2022-6-28 16:16:55] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:55] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:55] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:55] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:55] begin to read back config registerregAddr is 4
+[Debug] [2022-6-28 16:16:55] progress bar is 6
+[Debug] [2022-6-28 16:16:55] progress bar is a
+[Debug] [2022-6-28 16:16:55] progress bar is f
+[Debug] [2022-6-28 16:16:55] progress bar is 14
+[Debug] [2022-6-28 16:16:55] progress bar is 19
+[Debug] [2022-6-28 16:16:55] progress bar is 1e
+[Debug] [2022-6-28 16:16:55] progress bar is 23
+[Debug] [2022-6-28 16:16:55] progress bar is 28
+[Debug] [2022-6-28 16:16:55] progress bar is 2d
+[Debug] [2022-6-28 16:16:55] progress bar is 32
+[Debug] [2022-6-28 16:16:55] progress bar is 37
+[Debug] [2022-6-28 16:16:55] progress bar is 3c
+[Debug] [2022-6-28 16:16:56] progress bar is 41
+[Debug] [2022-6-28 16:16:56] progress bar is 46
+[Debug] [2022-6-28 16:16:56] progress bar is 4b
+[Debug] [2022-6-28 16:16:56] progress bar is 50
+[Debug] [2022-6-28 16:16:56] progress bar is 55
+[Debug] [2022-6-28 16:16:56] progress bar is 5a
+[Debug] [2022-6-28 16:16:56] progress bar is 5f
+[Debug] [2022-6-28 16:16:56] progress bar is 64
+[Debug] [2022-6-28 16:16:56] begin to read back config registerregAddr is 9
+[Debug] [2022-6-28 16:16:56] the value in the status register is :3ffca0
+[Debug] [2022-6-28 16:16:56] begin to read back config registerregAddr is 9
+[Debug] [2022-6-28 16:16:56] the idcode from the scanning is: 0x20303899
+[Debug] [2022-6-28 16:16:57] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:57] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:57] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:57] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:57] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:57] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:57] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:57] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:57] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:57] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:57] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:57] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:16:57] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:57] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:57] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:57] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:57] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:16:57] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:16:57] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:16:57] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:16:57] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:16:57] cmd operation configure releases locker
+[Info] [2022-6-28 16:39:07] /***************************Start jtagserver***************************/
+[Info] [2022-6-28 16:39:07] Path: J:/PDS_2021.4/pango/PDS_2021.4-SP1.2/bin
+[Info] [2022-6-28 16:39:07] Version: 96435
+[Debug] [2022-6-28 16:39:09] Add a new user_thread, socket descriptor is 748 user_thread id is 0000000000002958
+[Debug] [2022-6-28 16:39:09] After adding, map size is : 1
+[Debug] [2022-6-28 16:39:09] Add a new user_thread, socket descriptor is 720 user_thread id is 0000000000002958
+[Debug] [2022-6-28 16:39:09] After adding, map size is : 2
+[Debug] [2022-6-28 16:39:09] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-6-28 16:39:09] IP address of connecting client is : ::ffff:127.0.0.1IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-6-28 16:39:09] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:39:09] _total_bytes_size : 158
+[Debug] [2022-6-28 16:39:09] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:39:09] _total_bytes_size : 96
+[Debug] [2022-6-28 16:39:09] cmd id :40010cmd name : get_cable_paras
+[Debug] [2022-6-28 16:39:11] cmd operation get_cable_paras releases locker
+[Debug] [2022-6-28 16:39:11] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:39:11] _total_bytes_size : 90
+[Debug] [2022-6-28 16:39:11] cmd id :10001cmd name : open_cable
+[Debug] [2022-6-28 16:39:11] the idcode from the scanning is: 0x20303899
+[Debug] [2022-6-28 16:39:11] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:11] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:11] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:11] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:11] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:39:11] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:11] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:39:11] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:11] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:39:11] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:11] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:39:11] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:11] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:39:11] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:11] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:39:11] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:11] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:12] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:39:12] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:12] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:39:12] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:12] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:12] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:39:12] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:12] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:39:12] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:12] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:39:12] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:12] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:39:12] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:12] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:39:12] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:12] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:39:12] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:12] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:39:12] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:12] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:39:12] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:12] cmd operation open_cable releases locker
+[Debug] [2022-6-28 16:39:22] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:39:22] _total_bytes_size : 19e
+[Debug] [2022-6-28 16:39:22] cmd id :2712cmd name : configure
+[Debug] [2022-6-28 16:39:23] the idcode from the scanning is: 0x20303899
+[Debug] [2022-6-28 16:39:23] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:23] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:23] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:23] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:23] begin to read back config registerregAddr is 4
+[Debug] [2022-6-28 16:39:23] progress bar is 6
+[Debug] [2022-6-28 16:39:23] progress bar is a
+[Debug] [2022-6-28 16:39:23] progress bar is f
+[Debug] [2022-6-28 16:39:23] progress bar is 14
+[Debug] [2022-6-28 16:39:23] progress bar is 19
+[Debug] [2022-6-28 16:39:23] progress bar is 1e
+[Debug] [2022-6-28 16:39:23] progress bar is 23
+[Debug] [2022-6-28 16:39:23] progress bar is 28
+[Debug] [2022-6-28 16:39:23] progress bar is 2d
+[Debug] [2022-6-28 16:39:23] progress bar is 32
+[Debug] [2022-6-28 16:39:23] progress bar is 37
+[Debug] [2022-6-28 16:39:23] progress bar is 3c
+[Debug] [2022-6-28 16:39:23] progress bar is 41
+[Debug] [2022-6-28 16:39:23] progress bar is 46
+[Debug] [2022-6-28 16:39:23] progress bar is 4b
+[Debug] [2022-6-28 16:39:23] progress bar is 50
+[Debug] [2022-6-28 16:39:23] progress bar is 55
+[Debug] [2022-6-28 16:39:23] progress bar is 5a
+[Debug] [2022-6-28 16:39:23] progress bar is 5f
+[Debug] [2022-6-28 16:39:23] progress bar is 64
+[Debug] [2022-6-28 16:39:23] begin to read back config registerregAddr is 9
+[Debug] [2022-6-28 16:39:23] the value in the status register is :3ffca0
+[Debug] [2022-6-28 16:39:23] begin to read back config registerregAddr is 9
+[Debug] [2022-6-28 16:39:24] the idcode from the scanning is: 0x20303899
+[Debug] [2022-6-28 16:39:24] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:24] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:24] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:24] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR1
+[Debug] [2022-6-28 16:39:24] Debug core 0 version id is 0x800f8018
+[Warn] [2022-6-28 16:39:24] Version id of degug core 0 is invalid : 0x800f8018
+[Warn] [2022-6-28 16:39:24] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core a is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core b is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core c is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core d is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core e is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core f is invalid : 0x0
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:39:24] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:39:24] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:39:24] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-6-28 16:39:24] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR1
+[Debug] [2022-6-28 16:39:24] Debug core 0 version id is 0x9001f003
+[Warn] [2022-6-28 16:39:24] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core a is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core b is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core c is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core d is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core e is invalid : 0x0
+[Warn] [2022-6-28 16:39:24] Version id of degug core f is invalid : 0x0
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:39:24] Version id of eye scan is invalid : 0x0
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:39:24] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:39:24] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:39:24] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:39:24] Version id of eye scan is invalid : 0x0
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:39:24] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:39:24] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:24] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:39:24] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:39:25] cmd operation configure releases locker
+[Debug] [2022-6-28 16:40:08] Add a new user_thread, socket descriptor is 190 user_thread id is 0000000000002958
+[Debug] [2022-6-28 16:40:08] After adding, map size is : 3
+[Debug] [2022-6-28 16:40:08] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-6-28 16:40:09] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:40:09] _total_bytes_size : 17ce
+[Debug] [2022-6-28 16:40:09] cmd id :2713cmd name : run
+[Debug] [2022-6-28 16:40:09] the idcode from the scanning is: 0x20303899
+[Debug] [2022-6-28 16:40:09] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:40:09] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:40:09] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:40:09] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:40:09] use jtag hub: USERDR1
+[Debug] [2022-6-28 16:40:09] Debug core 0 version id is 0x9001f003
+[Warn] [2022-6-28 16:40:09] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core a is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core b is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core c is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core d is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core e is invalid : 0x0
+[Warn] [2022-6-28 16:40:09] Version id of degug core f is invalid : 0x0
+[Debug] [2022-6-28 16:40:09] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:40:09] Version id of eye scan is invalid : 0x0
+[Debug] [2022-6-28 16:40:09] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:40:09] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:40:09] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:40:09] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:40:09] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:40:09] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:40:09] it is completed to reset the debugger core.
+[Debug] [2022-6-28 16:40:09] the value of trigger unit downloaded is : 0000101000000000000000000000000000000000000000000000000000000000000000
+[Debug] [2022-6-28 16:40:09] the value of trigger condition downloaded is : 010
+[Debug] [2022-6-28 16:40:09] the ouput enable is : 0the value is: 0
+[Debug] [2022-6-28 16:40:09] the value of config storage style is : 0000010000000000, samples_num_in_window is :800
+[Debug] [2022-6-28 16:40:09] Storage qualification is disable
+[Debug] [2022-6-28 16:41:36] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:41:36] _total_bytes_size : 1921
+[Debug] [2022-6-28 16:41:36] cmd id :271acmd name : stop
+[Info] [2022-6-28 16:41:36] command , Stopped
+[Debug] [2022-6-28 16:41:36] begin to read back config registerregAddr is 9
+[Debug] [2022-6-28 16:41:39] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:41:39] _total_bytes_size : 17ce
+[Debug] [2022-6-28 16:41:39] cmd id :2713cmd name : run
+[Debug] [2022-6-28 16:41:39] the idcode from the scanning is: 0x20303899
+[Debug] [2022-6-28 16:41:39] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:41:39] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:41:39] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:41:39] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:41:39] use jtag hub: USERDR1
+[Debug] [2022-6-28 16:41:39] Debug core 0 version id is 0x9001f003
+[Warn] [2022-6-28 16:41:39] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core a is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core b is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core c is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core d is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core e is invalid : 0x0
+[Warn] [2022-6-28 16:41:39] Version id of degug core f is invalid : 0x0
+[Debug] [2022-6-28 16:41:39] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:41:39] Version id of eye scan is invalid : 0x0
+[Debug] [2022-6-28 16:41:39] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:41:39] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:41:39] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:41:39] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:41:39] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:41:39] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:41:39] it is completed to reset the debugger core.
+[Debug] [2022-6-28 16:41:39] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000
+[Debug] [2022-6-28 16:41:39] the value of trigger condition downloaded is : 010
+[Debug] [2022-6-28 16:41:39] the ouput enable is : 0the value is: 0
+[Debug] [2022-6-28 16:41:39] the value of config storage style is : 0000010000000000, samples_num_in_window is :800
+[Debug] [2022-6-28 16:41:39] Storage qualification is disable
+[Debug] [2022-6-28 16:41:39] the current data number in the memory is equal to the sample number : 800
+[Info] [2022-6-28 16:41:39] samples buffer is full.
+[Debug] [2022-6-28 16:41:39] begin to read back config registerregAddr is 9
+[Debug] [2022-6-28 16:43:03] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:43:03] _total_bytes_size : 187d2
+[Debug] [2022-6-28 16:43:03] cmd id :2713cmd name : run
+[Debug] [2022-6-28 16:43:04] the idcode from the scanning is: 0x20303899
+[Debug] [2022-6-28 16:43:04] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:43:04] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:43:04] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:43:04] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:43:04] use jtag hub: USERDR1
+[Debug] [2022-6-28 16:43:04] Debug core 0 version id is 0x9001f003
+[Warn] [2022-6-28 16:43:04] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core a is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core b is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core c is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core d is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core e is invalid : 0x0
+[Warn] [2022-6-28 16:43:04] Version id of degug core f is invalid : 0x0
+[Debug] [2022-6-28 16:43:04] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:43:04] Version id of eye scan is invalid : 0x0
+[Debug] [2022-6-28 16:43:04] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:43:04] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:43:04] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:43:04] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:43:04] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:43:04] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:43:04] it is completed to reset the debugger core.
+[Debug] [2022-6-28 16:43:04] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000
+[Debug] [2022-6-28 16:43:04] the value of trigger condition downloaded is : 010
+[Debug] [2022-6-28 16:43:04] the ouput enable is : 0the value is: 0
+[Debug] [2022-6-28 16:43:04] the value of config storage style is : 0000000001100100, samples_num_in_window is :800
+[Debug] [2022-6-28 16:43:04] Storage qualification is disable
+[Debug] [2022-6-28 16:43:04] the current data number in the memory is equal to the sample number : 800
+[Info] [2022-6-28 16:43:04] samples buffer is full.
+[Debug] [2022-6-28 16:43:04] begin to read back config registerregAddr is 9
+[Debug] [2022-6-28 16:47:09] Remove the header data from the client, index : 0
+[Debug] [2022-6-28 16:47:09] _total_bytes_size : 187d2
+[Debug] [2022-6-28 16:47:09] cmd id :2713cmd name : run
+[Debug] [2022-6-28 16:47:09] the idcode from the scanning is: 0x20303899
+[Debug] [2022-6-28 16:47:09] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:47:09] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:47:09] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:47:09] the idcode from the scanning is: 0x0
+[Debug] [2022-6-28 16:47:09] use jtag hub: USERDR1
+[Debug] [2022-6-28 16:47:09] Debug core 0 version id is 0x9001f003
+[Warn] [2022-6-28 16:47:09] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core a is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core b is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core c is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core d is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core e is invalid : 0x0
+[Warn] [2022-6-28 16:47:09] Version id of degug core f is invalid : 0x0
+[Debug] [2022-6-28 16:47:09] use jtag hub: USERDR1
+[Warn] [2022-6-28 16:47:09] Version id of eye scan is invalid : 0x0
+[Debug] [2022-6-28 16:47:09] use jtag hub: USERDR2
+[Warn] [2022-6-28 16:47:09] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:47:09] use jtag hub: USERDR3
+[Warn] [2022-6-28 16:47:09] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:47:09] use jtag hub: USERDR4
+[Warn] [2022-6-28 16:47:09] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-6-28 16:47:09] it is completed to reset the debugger core.
+[Debug] [2022-6-28 16:47:09] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000
+[Debug] [2022-6-28 16:47:09] the value of trigger condition downloaded is : 010
+[Debug] [2022-6-28 16:47:09] the ouput enable is : 0the value is: 0
+[Debug] [2022-6-28 16:47:09] the value of config storage style is : 0000000000000000, samples_num_in_window is :800
+[Debug] [2022-6-28 16:47:09] Storage qualification is disable
+[Debug] [2022-6-28 16:47:09] the current data number in the memory is equal to the sample number : 800
+[Info] [2022-6-28 16:47:09] samples buffer is full.
+[Debug] [2022-6-28 16:47:09] begin to read back config registerregAddr is 9
+[Info] [2022-7-6 14:09:48] /***************************Start jtagserver***************************/
+[Info] [2022-7-6 14:09:48] Path: J:/PDS_2021.4/pango/PDS_2021.4-SP1.2/bin
+[Info] [2022-7-6 14:09:48] Version: 96435
+[Debug] [2022-7-6 14:09:50] Add a new user_thread, socket descriptor is 752 user_thread id is 00000000000019C8
+[Debug] [2022-7-6 14:09:50] After adding, map size is : 1
+[Debug] [2022-7-6 14:09:50] Add a new user_thread, socket descriptor is 724 user_thread id is 00000000000019C8
+[Debug] [2022-7-6 14:09:50] After adding, map size is : 2
+[Debug] [2022-7-6 14:09:50] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-7-6 14:09:50] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-7-6 14:09:50] Remove the header data from the client, index : 0
+[Debug] [2022-7-6 14:09:50] _total_bytes_size : 158
+[Debug] [2022-7-6 14:09:50] Remove the header data from the client, index : 0
+[Debug] [2022-7-6 14:09:50] _total_bytes_size : 96
+[Debug] [2022-7-6 14:09:50] cmd id :40010cmd name : get_cable_paras
+[Debug] [2022-7-6 14:09:52] cmd operation get_cable_paras releases locker
+[Debug] [2022-7-6 14:09:52] Remove the header data from the client, index : 0
+[Debug] [2022-7-6 14:09:52] _total_bytes_size : 90
+[Debug] [2022-7-6 14:09:52] cmd id :10001cmd name : open_cable
+[Debug] [2022-7-6 14:09:52] the idcode from the scanning is: 0x20303899
+[Debug] [2022-7-6 14:09:52] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:09:52] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:09:52] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:09:52] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR1
+[Debug] [2022-7-6 14:09:52] Debug core 0 version id is 0x800f8018
+[Warn] [2022-7-6 14:09:52] Version id of degug core 0 is invalid : 0x800f8018
+[Warn] [2022-7-6 14:09:52] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core a is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core b is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core c is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core d is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core e is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core f is invalid : 0x0
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR2
+[Warn] [2022-7-6 14:09:52] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR3
+[Warn] [2022-7-6 14:09:52] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR4
+[Warn] [2022-7-6 14:09:52] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-7-6 14:09:52] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR1
+[Debug] [2022-7-6 14:09:52] Debug core 0 version id is 0x9001f003
+[Warn] [2022-7-6 14:09:52] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core a is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core b is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core c is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core d is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core e is invalid : 0x0
+[Warn] [2022-7-6 14:09:52] Version id of degug core f is invalid : 0x0
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR1
+[Warn] [2022-7-6 14:09:52] Version id of eye scan is invalid : 0x0
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR2
+[Warn] [2022-7-6 14:09:52] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR3
+[Warn] [2022-7-6 14:09:52] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR4
+[Warn] [2022-7-6 14:09:52] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR1
+[Warn] [2022-7-6 14:09:52] Version id of eye scan is invalid : 0x0
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR2
+[Warn] [2022-7-6 14:09:52] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR3
+[Warn] [2022-7-6 14:09:52] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:09:52] use jtag hub: USERDR4
+[Warn] [2022-7-6 14:09:52] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:09:53] cmd operation open_cable releases locker
+[Debug] [2022-7-6 14:10:00] Remove the header data from the client, index : 0
+[Debug] [2022-7-6 14:10:00] _total_bytes_size : 1437
+[Debug] [2022-7-6 14:10:00] cmd id :2712cmd name : configure
+[Debug] [2022-7-6 14:10:01] the idcode from the scanning is: 0x20303899
+[Debug] [2022-7-6 14:10:01] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:01] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:01] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:01] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:01] begin to read back config registerregAddr is 4
+[Debug] [2022-7-6 14:10:01] progress bar is 6
+[Debug] [2022-7-6 14:10:01] progress bar is a
+[Debug] [2022-7-6 14:10:01] progress bar is f
+[Debug] [2022-7-6 14:10:01] progress bar is 14
+[Debug] [2022-7-6 14:10:01] progress bar is 19
+[Debug] [2022-7-6 14:10:01] progress bar is 1e
+[Debug] [2022-7-6 14:10:01] progress bar is 23
+[Debug] [2022-7-6 14:10:01] progress bar is 28
+[Debug] [2022-7-6 14:10:01] progress bar is 2d
+[Debug] [2022-7-6 14:10:01] progress bar is 32
+[Debug] [2022-7-6 14:10:01] progress bar is 37
+[Debug] [2022-7-6 14:10:01] progress bar is 3c
+[Debug] [2022-7-6 14:10:01] progress bar is 41
+[Debug] [2022-7-6 14:10:01] progress bar is 46
+[Debug] [2022-7-6 14:10:01] progress bar is 4b
+[Debug] [2022-7-6 14:10:01] progress bar is 50
+[Debug] [2022-7-6 14:10:01] progress bar is 55
+[Debug] [2022-7-6 14:10:01] progress bar is 5a
+[Debug] [2022-7-6 14:10:01] progress bar is 5f
+[Debug] [2022-7-6 14:10:01] progress bar is 64
+[Debug] [2022-7-6 14:10:01] begin to read back config registerregAddr is 9
+[Debug] [2022-7-6 14:10:01] the value in the status register is :203ffca0
+[Debug] [2022-7-6 14:10:01] begin to read back config registerregAddr is 9
+[Debug] [2022-7-6 14:10:02] the idcode from the scanning is: 0x20303899
+[Debug] [2022-7-6 14:10:02] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:02] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:02] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:02] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:02] use jtag hub: USERDR1
+[Debug] [2022-7-6 14:10:02] Debug core 0 version id is 0x9001f003
+[Warn] [2022-7-6 14:10:02] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core a is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core b is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core c is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core d is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core e is invalid : 0x0
+[Warn] [2022-7-6 14:10:02] Version id of degug core f is invalid : 0x0
+[Debug] [2022-7-6 14:10:02] use jtag hub: USERDR1
+[Warn] [2022-7-6 14:10:02] Version id of eye scan is invalid : 0x0
+[Debug] [2022-7-6 14:10:02] use jtag hub: USERDR2
+[Warn] [2022-7-6 14:10:02] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:02] use jtag hub: USERDR3
+[Warn] [2022-7-6 14:10:02] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:02] use jtag hub: USERDR4
+[Warn] [2022-7-6 14:10:02] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:02] use jtag hub: USERDR1
+[Warn] [2022-7-6 14:10:02] Version id of eye scan is invalid : 0x0
+[Debug] [2022-7-6 14:10:02] use jtag hub: USERDR2
+[Warn] [2022-7-6 14:10:02] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:02] use jtag hub: USERDR3
+[Warn] [2022-7-6 14:10:02] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:02] use jtag hub: USERDR4
+[Warn] [2022-7-6 14:10:02] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:02] cmd operation configure releases locker
+[Debug] [2022-7-6 14:10:08] Add a new user_thread, socket descriptor is 398 user_thread id is 00000000000019C8
+[Debug] [2022-7-6 14:10:08] After adding, map size is : 3
+[Debug] [2022-7-6 14:10:08] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-7-6 14:10:08] Remove the header data from the client, index : 0
+[Debug] [2022-7-6 14:10:08] _total_bytes_size : 17ce
+[Debug] [2022-7-6 14:10:08] cmd id :2713cmd name : run
+[Debug] [2022-7-6 14:10:08] the idcode from the scanning is: 0x20303899
+[Debug] [2022-7-6 14:10:08] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:08] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:08] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:08] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:08] use jtag hub: USERDR1
+[Debug] [2022-7-6 14:10:08] Debug core 0 version id is 0x9001f003
+[Warn] [2022-7-6 14:10:08] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core a is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core b is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core c is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core d is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core e is invalid : 0x0
+[Warn] [2022-7-6 14:10:08] Version id of degug core f is invalid : 0x0
+[Debug] [2022-7-6 14:10:08] use jtag hub: USERDR1
+[Warn] [2022-7-6 14:10:08] Version id of eye scan is invalid : 0x0
+[Debug] [2022-7-6 14:10:08] use jtag hub: USERDR2
+[Warn] [2022-7-6 14:10:08] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:08] use jtag hub: USERDR3
+[Warn] [2022-7-6 14:10:08] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:08] use jtag hub: USERDR4
+[Warn] [2022-7-6 14:10:08] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:08] User Core :
+[Debug] [2022-7-6 14:10:08] /******************** Core Information *************************/
+[Debug] [2022-7-6 14:10:08] Core basic info: 
+[Debug] [2022-7-6 14:10:08] 	Core version: 0x9001f003
+[Debug] [2022-7-6 14:10:08] 	Index: 0
+[Debug] [2022-7-6 14:10:08] 	Name: MyFLA0
+[Debug] [2022-7-6 14:10:08] 	Core type: 3
+[Debug] [2022-7-6 14:10:08] 	Data same as trigger: true
+[Debug] [2022-7-6 14:10:08] 	Storage qualification: false
+[Debug] [2022-7-6 14:10:08] 	Max data depth: 800
+[Debug] [2022-7-6 14:10:08] 	Sample data width: 17
+[Debug] [2022-7-6 14:10:08] 	Trigger sequencer level: 1
+[Debug] [2022-7-6 14:10:08] 	Trigger output enabled: false
+[Debug] [2022-7-6 14:10:08] 	Multi windows enabled: false
+[Debug] [2022-7-6 14:10:08] 	Reset wave property status: false
+[Debug] [2022-7-6 14:10:08] Core Property: 
+[Debug] [2022-7-6 14:10:08] 	Core version: 0x9001f003
+[Debug] [2022-7-6 14:10:08] 	Index: 0
+[Debug] [2022-7-6 14:10:08] 	Core type: 3
+[Debug] [2022-7-6 14:10:08] 	Data same as trigger: true
+[Debug] [2022-7-6 14:10:08] 	Storage qualification: false
+[Debug] [2022-7-6 14:10:08] 	Trigger output enabled: false
+[Debug] [2022-7-6 14:10:08] 	Multi windows enabled: false
+[Debug] [2022-7-6 14:10:08] 	Max data depth: 800
+[Debug] [2022-7-6 14:10:08] 	Sample data width: 17
+[Debug] [2022-7-6 14:10:08] 	Trigger sequencer level: 1
+[Debug] [2022-7-6 14:10:08] 	Channel num		Match unit num		Match unit type		Counter width		Port is data
+[Debug] [2022-7-6 14:10:08] 	Trigger port 0 : 	17	1	1	0	true
+[Debug] [2022-7-6 14:10:08] Signals Property: 
+[Debug] [2022-7-6 14:10:08] 	Window num: 0
+[Debug] [2022-7-6 14:10:08] 	Samples num in window: 0
+[Debug] [2022-7-6 14:10:08] 	Trigger time in window: 0
+[Debug] [2022-7-6 14:10:08] 	Samples num: 0
+[Debug] [2022-7-6 14:10:08] 	Negative time: true
+[Debug] [2022-7-6 14:10:08] 	Signal type: 0
+[Debug] [2022-7-6 14:10:08] 	Total trigger position: 0
+[Debug] [2022-7-6 14:10:08] Storage Style Property: 
+[Debug] [2022-7-6 14:10:08] 	Style type: 0
+[Debug] [2022-7-6 14:10:08] 	Windows num: 1
+[Debug] [2022-7-6 14:10:08] 	Depth per window: 800
+[Debug] [2022-7-6 14:10:08] 	Window position: a
+[Debug] [2022-7-6 14:10:08] 	Samples per trigger: 800
+[Debug] [2022-7-6 14:10:08] 	Storage qualification: All Data
+[Debug] [2022-7-6 14:10:08] Data Port: 
+[Debug] [2022-7-6 14:10:08] 	Max depth: 0
+[Debug] [2022-7-6 14:10:08] 	Depth: 0
+[Debug] [2022-7-6 14:10:08] Trigger Port: 
+[Debug] [2022-7-6 14:10:08] Trigger Port 0 :
+[Debug] [2022-7-6 14:10:08] 	Port index: 0
+[Debug] [2022-7-6 14:10:08] 	Match type: 1
+[Debug] [2022-7-6 14:10:08] 	Counter width: 0
+[Debug] [2022-7-6 14:10:08] 	Is data: true
+[Debug] [2022-7-6 14:10:08] Match Unit: 
+[Debug] [2022-7-6 14:10:08] Match Unit 0 :
+[Debug] [2022-7-6 14:10:08] 	Trigger port index: 0
+[Debug] [2022-7-6 14:10:08] 	Value: XXXXXXXXXXXXXXXXXXXXXXX
+[Debug] [2022-7-6 14:10:08] 	Index: 0
+[Debug] [2022-7-6 14:10:08] 	Function: 0
+[Debug] [2022-7-6 14:10:08] 	Radix: 0
+[Debug] [2022-7-6 14:10:08] 	Counter match event: 0
+[Debug] [2022-7-6 14:10:08] 	Counter cycles: 1
+[Debug] [2022-7-6 14:10:08] 	Trigger output enabled: true
+[Debug] [2022-7-6 14:10:08] 	Range form : 00000000000000000000000 to 00000000000000000000000
+[Debug] [2022-7-6 14:10:08] 	Is tp need deleted: false
+[Debug] [2022-7-6 14:10:08] Bus: 
+[Debug] [2022-7-6 14:10:08] Trigger Condition: 
+[Debug] [2022-7-6 14:10:08] Trigger Condition 0 :
+[Debug] [2022-7-6 14:10:08] 	Is active: true
+[Debug] [2022-7-6 14:10:08] 	Name: TriggerCondition0
+[Debug] [2022-7-6 14:10:08] 	Equation: TU0
+[Debug] [2022-7-6 14:10:08] 	Output enable type: 0
+[Debug] [2022-7-6 14:10:08] 	Trigger condition type: 0
+[Debug] [2022-7-6 14:10:08] 	Use contiguous match event: false
+[Debug] [2022-7-6 14:10:08] /**************************************************************/
+[Debug] [2022-7-6 14:10:08] Device Core :
+[Debug] [2022-7-6 14:10:08] /******************** Core Information *************************/
+[Debug] [2022-7-6 14:10:08] Core basic info: 
+[Debug] [2022-7-6 14:10:08] 	Core version: 0x9001f003
+[Debug] [2022-7-6 14:10:08] 	Index: 0
+[Debug] [2022-7-6 14:10:08] 	Name: MyFLA0
+[Debug] [2022-7-6 14:10:08] 	Core type: 3
+[Debug] [2022-7-6 14:10:08] 	Data same as trigger: true
+[Debug] [2022-7-6 14:10:08] 	Storage qualification: false
+[Debug] [2022-7-6 14:10:08] 	Max data depth: 800
+[Debug] [2022-7-6 14:10:08] 	Sample data width: 17
+[Debug] [2022-7-6 14:10:08] 	Trigger sequencer level: 1
+[Debug] [2022-7-6 14:10:08] 	Trigger output enabled: false
+[Debug] [2022-7-6 14:10:08] 	Multi windows enabled: false
+[Debug] [2022-7-6 14:10:08] 	Reset wave property status: false
+[Debug] [2022-7-6 14:10:08] Core Property: 
+[Debug] [2022-7-6 14:10:08] 	Core version: 0x9001f003
+[Debug] [2022-7-6 14:10:08] 	Index: 0
+[Debug] [2022-7-6 14:10:08] 	Core type: 3
+[Debug] [2022-7-6 14:10:08] 	Data same as trigger: true
+[Debug] [2022-7-6 14:10:08] 	Storage qualification: false
+[Debug] [2022-7-6 14:10:08] 	Trigger output enabled: false
+[Debug] [2022-7-6 14:10:08] 	Multi windows enabled: false
+[Debug] [2022-7-6 14:10:08] 	Max data depth: 800
+[Debug] [2022-7-6 14:10:08] 	Sample data width: 17
+[Debug] [2022-7-6 14:10:08] 	Trigger sequencer level: 1
+[Debug] [2022-7-6 14:10:08] 	Channel num		Match unit num		Match unit type		Counter width		Port is data
+[Debug] [2022-7-6 14:10:08] 	Trigger port 0 : 	17	1	1	0	true
+[Debug] [2022-7-6 14:10:08] Signals Property: 
+[Debug] [2022-7-6 14:10:08] 	Window num: 0
+[Debug] [2022-7-6 14:10:08] 	Samples num in window: 0
+[Debug] [2022-7-6 14:10:08] 	Trigger time in window: 0
+[Debug] [2022-7-6 14:10:08] 	Samples num: 0
+[Debug] [2022-7-6 14:10:08] 	Negative time: true
+[Debug] [2022-7-6 14:10:08] 	Signal type: 0
+[Debug] [2022-7-6 14:10:08] 	Total trigger position: 0
+[Debug] [2022-7-6 14:10:08] Storage Style Property: 
+[Debug] [2022-7-6 14:10:08] 	Style type: 0
+[Debug] [2022-7-6 14:10:08] 	Windows num: 1
+[Debug] [2022-7-6 14:10:08] 	Depth per window: 800
+[Debug] [2022-7-6 14:10:08] 	Window position: 0
+[Debug] [2022-7-6 14:10:08] 	Samples per trigger: 800
+[Debug] [2022-7-6 14:10:08] 	Storage qualification: All Data
+[Debug] [2022-7-6 14:10:08] Data Port: 
+[Debug] [2022-7-6 14:10:08] 	Max depth: 0
+[Debug] [2022-7-6 14:10:08] 	Depth: 0
+[Debug] [2022-7-6 14:10:08] Trigger Port: 
+[Debug] [2022-7-6 14:10:08] Trigger Port 0 :
+[Debug] [2022-7-6 14:10:08] 	Port index: 0
+[Debug] [2022-7-6 14:10:08] 	Match type: 1
+[Debug] [2022-7-6 14:10:08] 	Counter width: 0
+[Debug] [2022-7-6 14:10:08] 	Is data: true
+[Debug] [2022-7-6 14:10:08] Match Unit: 
+[Debug] [2022-7-6 14:10:08] Match Unit 0 :
+[Debug] [2022-7-6 14:10:08] 	Trigger port index: 0
+[Debug] [2022-7-6 14:10:08] 	Value: XXXXXXXXXXXXXXXXXXXXXXX
+[Debug] [2022-7-6 14:10:08] 	Index: 0
+[Debug] [2022-7-6 14:10:08] 	Function: 0
+[Debug] [2022-7-6 14:10:08] 	Radix: 0
+[Debug] [2022-7-6 14:10:08] 	Counter match event: 0
+[Debug] [2022-7-6 14:10:08] 	Counter cycles: 1
+[Debug] [2022-7-6 14:10:08] 	Trigger output enabled: true
+[Debug] [2022-7-6 14:10:08] 	Range form : 00000000000000000000000 to 00000000000000000000000
+[Debug] [2022-7-6 14:10:08] 	Is tp need deleted: false
+[Debug] [2022-7-6 14:10:08] Bus: 
+[Debug] [2022-7-6 14:10:08] Trigger Condition: 
+[Debug] [2022-7-6 14:10:08] /**************************************************************/
+[Error] [2022-7-6 14:10:08] Core doesn't match :0
+[Debug] [2022-7-6 14:10:27] Remove the header data from the client, index : 0
+[Debug] [2022-7-6 14:10:27] _total_bytes_size : 19a4
+[Debug] [2022-7-6 14:10:27] cmd id :2712cmd name : configure
+[Debug] [2022-7-6 14:10:28] the idcode from the scanning is: 0x20303899
+[Debug] [2022-7-6 14:10:28] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:28] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:28] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:28] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:28] begin to read back config registerregAddr is 4
+[Debug] [2022-7-6 14:10:28] progress bar is 6
+[Debug] [2022-7-6 14:10:28] progress bar is a
+[Debug] [2022-7-6 14:10:28] progress bar is f
+[Debug] [2022-7-6 14:10:28] progress bar is 14
+[Debug] [2022-7-6 14:10:28] progress bar is 19
+[Debug] [2022-7-6 14:10:28] progress bar is 1e
+[Debug] [2022-7-6 14:10:28] progress bar is 23
+[Debug] [2022-7-6 14:10:28] progress bar is 28
+[Debug] [2022-7-6 14:10:28] progress bar is 2d
+[Debug] [2022-7-6 14:10:28] progress bar is 32
+[Debug] [2022-7-6 14:10:28] progress bar is 37
+[Debug] [2022-7-6 14:10:28] progress bar is 3c
+[Debug] [2022-7-6 14:10:28] progress bar is 41
+[Debug] [2022-7-6 14:10:28] progress bar is 46
+[Debug] [2022-7-6 14:10:28] progress bar is 4b
+[Debug] [2022-7-6 14:10:28] progress bar is 50
+[Debug] [2022-7-6 14:10:28] progress bar is 55
+[Debug] [2022-7-6 14:10:28] progress bar is 5a
+[Debug] [2022-7-6 14:10:28] progress bar is 5f
+[Debug] [2022-7-6 14:10:28] progress bar is 64
+[Debug] [2022-7-6 14:10:28] begin to read back config registerregAddr is 9
+[Debug] [2022-7-6 14:10:28] the value in the status register is :3ffca0
+[Debug] [2022-7-6 14:10:28] begin to read back config registerregAddr is 9
+[Debug] [2022-7-6 14:10:29] the idcode from the scanning is: 0x20303899
+[Debug] [2022-7-6 14:10:29] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:29] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:29] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:29] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:29] use jtag hub: USERDR1
+[Debug] [2022-7-6 14:10:29] Debug core 0 version id is 0x9001f003
+[Warn] [2022-7-6 14:10:29] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core a is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core b is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core c is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core d is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core e is invalid : 0x0
+[Warn] [2022-7-6 14:10:29] Version id of degug core f is invalid : 0x0
+[Debug] [2022-7-6 14:10:29] use jtag hub: USERDR1
+[Warn] [2022-7-6 14:10:29] Version id of eye scan is invalid : 0x0
+[Debug] [2022-7-6 14:10:29] use jtag hub: USERDR2
+[Warn] [2022-7-6 14:10:29] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:29] use jtag hub: USERDR3
+[Warn] [2022-7-6 14:10:29] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:29] use jtag hub: USERDR4
+[Warn] [2022-7-6 14:10:29] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:29] use jtag hub: USERDR1
+[Warn] [2022-7-6 14:10:29] Version id of eye scan is invalid : 0x0
+[Debug] [2022-7-6 14:10:29] use jtag hub: USERDR2
+[Warn] [2022-7-6 14:10:29] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:29] use jtag hub: USERDR3
+[Warn] [2022-7-6 14:10:29] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:29] use jtag hub: USERDR4
+[Warn] [2022-7-6 14:10:29] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:29] cmd operation configure releases locker
+[Debug] [2022-7-6 14:10:30] Remove the header data from the client, index : 0
+[Debug] [2022-7-6 14:10:30] _total_bytes_size : 1846
+[Debug] [2022-7-6 14:10:30] cmd id :2713cmd name : run
+[Debug] [2022-7-6 14:10:31] the idcode from the scanning is: 0x20303899
+[Debug] [2022-7-6 14:10:31] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:31] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:31] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:31] the idcode from the scanning is: 0x0
+[Debug] [2022-7-6 14:10:31] use jtag hub: USERDR1
+[Debug] [2022-7-6 14:10:31] Debug core 0 version id is 0x9001f003
+[Warn] [2022-7-6 14:10:31] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core a is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core b is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core c is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core d is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core e is invalid : 0x0
+[Warn] [2022-7-6 14:10:31] Version id of degug core f is invalid : 0x0
+[Debug] [2022-7-6 14:10:31] use jtag hub: USERDR1
+[Warn] [2022-7-6 14:10:31] Version id of eye scan is invalid : 0x0
+[Debug] [2022-7-6 14:10:31] use jtag hub: USERDR2
+[Warn] [2022-7-6 14:10:31] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:31] use jtag hub: USERDR3
+[Warn] [2022-7-6 14:10:31] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:31] use jtag hub: USERDR4
+[Warn] [2022-7-6 14:10:31] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-7-6 14:10:31] it is completed to reset the debugger core.
+[Debug] [2022-7-6 14:10:31] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000
+[Debug] [2022-7-6 14:10:31] the value of trigger condition downloaded is : 010
+[Debug] [2022-7-6 14:10:31] the ouput enable is : falsethe value is: 0
+[Debug] [2022-7-6 14:10:31] the value of config storage style is : 0000000000001010, samples_num_in_window is :800
+[Debug] [2022-7-6 14:10:31] Storage qualification is disable
+[Debug] [2022-7-6 14:10:31] the current data number in the memory is equal to the sample number : 800
+[Info] [2022-7-6 14:10:31] samples buffer is full.
+[Debug] [2022-7-6 14:10:31] begin to read back config registerregAddr is 9
+[Info] [2022-10-11 10:17:41] /***************************Start jtagserver***************************/
+[Info] [2022-10-11 10:17:41] Path: E:/PDS_2022.1/Pango/PDS_2022.1/bin
+[Info] [2022-10-11 10:17:41] Version: 99559
+[Error] [2022-10-11 10:17:42] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::Negotiate at line 1506 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgLpt.cpp compiled at Jun 16 2022.
+[Error] [2022-10-11 10:17:42] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::WriteCmd at line 1702 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgLpt.cpp compiled at Jun 16 2022.
+[Debug] [2022-10-11 10:17:42] Add a new user_thread, socket descriptor is 1148 user_thread id is 000000000000330C
+[Debug] [2022-10-11 10:17:42] After adding, map size is : 1
+[Debug] [2022-10-11 10:17:42] Add a new user_thread, socket descriptor is 1068 user_thread id is 000000000000330C
+[Debug] [2022-10-11 10:17:42] After adding, map size is : 2
+[Debug] [2022-10-11 10:17:42] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-10-11 10:17:42] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-10-11 10:17:42] Remove the header data from the client, index : 0
+[Debug] [2022-10-11 10:17:42] _total_bytes_size : 146
+[Debug] [2022-10-11 10:17:42] Remove the header data from the client, index : 0
+[Debug] [2022-10-11 10:17:42] _total_bytes_size : 96
+[Debug] [2022-10-11 10:17:42] cmd id :40011cmd name : get_cable_paras
+[Error] [2022-10-11 10:17:42] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::Negotiate at line 1506 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgLpt.cpp compiled at Jun 16 2022.
+[Error] [2022-10-11 10:17:42] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::WriteCmd at line 1702 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgLpt.cpp compiled at Jun 16 2022.
+[Debug] [2022-10-11 10:17:43] cmd operation get_cable_paras releases locker
+[Debug] [2022-10-11 10:17:43] Remove the header data from the client, index : 0
+[Debug] [2022-10-11 10:17:43] _total_bytes_size : 101
+[Debug] [2022-10-11 10:17:43] cmd id :20001cmd name : Open config cable
+[Debug] [2022-10-11 10:17:43] the idcode from the scanning is: 0x20303899
+[Debug] [2022-10-11 10:17:43] the idcode from the scanning is: 0x0
+[Debug] [2022-10-11 10:17:43] the idcode from the scanning is: 0x0
+[Debug] [2022-10-11 10:17:43] the idcode from the scanning is: 0x0
+[Debug] [2022-10-11 10:17:43] the idcode from the scanning is: 0x0
+[Debug] [2022-10-11 10:17:43] begin to read back config registerregAddr is 9
+[Debug] [2022-10-11 10:17:44] cmd operation Open config cable releases locker
+[Debug] [2022-10-11 10:17:50] Remove the header data from the client, index : 0
+[Debug] [2022-10-11 10:17:50] _total_bytes_size : 272
+[Debug] [2022-10-11 10:17:50] cmd id :4e22cmd name : Program
+[Debug] [2022-10-11 10:17:50] the idcode from the scanning is: 0x20303899
+[Debug] [2022-10-11 10:17:50] the idcode from the scanning is: 0x0
+[Debug] [2022-10-11 10:17:50] the idcode from the scanning is: 0x0
+[Debug] [2022-10-11 10:17:50] the idcode from the scanning is: 0x0
+[Debug] [2022-10-11 10:17:50] the idcode from the scanning is: 0x0
+[Debug] [2022-10-11 10:17:50] begin to read back config registerregAddr is 4
+[Debug] [2022-10-11 10:17:50] progress bar is 6
+[Debug] [2022-10-11 10:17:50] progress bar is 10
+[Debug] [2022-10-11 10:17:50] progress bar is 15
+[Debug] [2022-10-11 10:17:50] progress bar is 20
+[Debug] [2022-10-11 10:17:50] progress bar is 25
+[Debug] [2022-10-11 10:17:50] progress bar is 30
+[Debug] [2022-10-11 10:17:50] progress bar is 35
+[Debug] [2022-10-11 10:17:50] progress bar is 40
+[Debug] [2022-10-11 10:17:50] progress bar is 45
+[Debug] [2022-10-11 10:17:50] progress bar is 50
+[Debug] [2022-10-11 10:17:50] progress bar is 55
+[Debug] [2022-10-11 10:17:50] progress bar is 60
+[Debug] [2022-10-11 10:17:50] progress bar is 65
+[Debug] [2022-10-11 10:17:50] progress bar is 70
+[Debug] [2022-10-11 10:17:50] progress bar is 75
+[Debug] [2022-10-11 10:17:50] progress bar is 80
+[Debug] [2022-10-11 10:17:50] progress bar is 85
+[Debug] [2022-10-11 10:17:50] progress bar is 90
+[Debug] [2022-10-11 10:17:51] progress bar is 95
+[Debug] [2022-10-11 10:17:51] progress bar is 100
+[Debug] [2022-10-11 10:17:51] begin to read back config registerregAddr is 9
+[Debug] [2022-10-11 10:17:51] the value in the status register is :4193440
+[Debug] [2022-10-11 10:17:51] begin to read back config registerregAddr is 9
+[Debug] [2022-10-11 10:17:51] cmd operation Program releases locker
+[Info] [2022-10-18 10:36:09] /***************************Start jtagserver***************************/
+[Info] [2022-10-18 10:36:09] Path: E:/PDS_2022.1/Pango/PDS_2022.1/bin
+[Info] [2022-10-18 10:36:09] Version: 99559
+[Error] [2022-10-18 10:36:10] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::Negotiate at line 1506 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgLpt.cpp compiled at Jun 16 2022.
+[Error] [2022-10-18 10:36:10] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::WriteCmd at line 1702 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgLpt.cpp compiled at Jun 16 2022.
+[Debug] [2022-10-18 10:36:10] Add a new user_thread, socket descriptor is 1052 user_thread id is 0000000000001D00
+[Debug] [2022-10-18 10:36:10] After adding, map size is : 1
+[Debug] [2022-10-18 10:36:10] Add a new user_thread, socket descriptor is 1076 user_thread id is 0000000000001D00
+[Debug] [2022-10-18 10:36:10] After adding, map size is : 2
+[Debug] [2022-10-18 10:36:10] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-10-18 10:36:10] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-10-18 10:36:10] Remove the header data from the client, index : 0
+[Debug] [2022-10-18 10:36:10] _total_bytes_size : 146
+[Debug] [2022-10-18 10:36:10] Remove the header data from the client, index : 0
+[Debug] [2022-10-18 10:36:10] _total_bytes_size : 96
+[Debug] [2022-10-18 10:36:10] cmd id :40011cmd name : get_cable_paras
+[Error] [2022-10-18 10:36:14] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::Negotiate at line 1506 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgLpt.cpp compiled at Jun 16 2022.
+[Error] [2022-10-18 10:36:15] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::WriteCmd at line 1702 in file E:\wf\2022.1\output_files\oem\FAB_Develop\branches\pds_2022.1\source\sw\cdt\cablemgr\CablePgLpt.cpp compiled at Jun 16 2022.
+[Debug] [2022-10-18 10:36:15] cmd operation get_cable_paras releases locker
+[Debug] [2022-10-18 10:36:15] Remove the header data from the client, index : 0
+[Debug] [2022-10-18 10:36:15] _total_bytes_size : 90
+[Debug] [2022-10-18 10:36:15] cmd id :10001cmd name : open_cable
+[Debug] [2022-10-18 10:36:15] the idcode from the scanning is: 0x20303899
+[Debug] [2022-10-18 10:36:15] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:15] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:15] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:15] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:15] use jtag hub: USERDR1
+[Debug] [2022-10-18 10:36:15] Debug core 0 version id is 0x800f8018
+[Warn] [2022-10-18 10:36:15] Version id of degug core 0 is invalid : 0x800f8018
+[Warn] [2022-10-18 10:36:15] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-10-18 10:36:15] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-10-18 10:36:15] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-10-18 10:36:15] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-10-18 10:36:15] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-10-18 10:36:15] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-10-18 10:36:15] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 10 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 11 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 12 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 13 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 14 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 15 is invalid : 0x0
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR2
+[Warn] [2022-10-18 10:36:16] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR3
+[Warn] [2022-10-18 10:36:16] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR4
+[Warn] [2022-10-18 10:36:16] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 10 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 11 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 12 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 13 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 14 is invalid : 0xffffffff
+[Warn] [2022-10-18 10:36:16] Version id of degug core 15 is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR1
+[Debug] [2022-10-18 10:36:16] Debug core 0 version id is 0x9001f003
+[Warn] [2022-10-18 10:36:16] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 10 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 11 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 12 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 13 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 14 is invalid : 0x0
+[Warn] [2022-10-18 10:36:16] Version id of degug core 15 is invalid : 0x0
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR1
+[Warn] [2022-10-18 10:36:16] Version id of eye scan is invalid : 0x0
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR2
+[Warn] [2022-10-18 10:36:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR3
+[Warn] [2022-10-18 10:36:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR4
+[Warn] [2022-10-18 10:36:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR1
+[Warn] [2022-10-18 10:36:16] Version id of eye scan is invalid : 0x0
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR2
+[Warn] [2022-10-18 10:36:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR3
+[Warn] [2022-10-18 10:36:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:16] use jtag hub: USERDR4
+[Warn] [2022-10-18 10:36:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:16] cmd operation open_cable releases locker
+[Debug] [2022-10-18 10:36:28] Remove the header data from the client, index : 0
+[Debug] [2022-10-18 10:36:28] _total_bytes_size : 17b7
+[Debug] [2022-10-18 10:36:28] cmd id :2712cmd name : configure
+[Debug] [2022-10-18 10:36:28] the idcode from the scanning is: 0x20303899
+[Debug] [2022-10-18 10:36:28] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:28] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:28] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:28] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:28] begin to read back config registerregAddr is 4
+[Debug] [2022-10-18 10:36:28] progress bar is 6
+[Debug] [2022-10-18 10:36:28] progress bar is 10
+[Debug] [2022-10-18 10:36:29] progress bar is 15
+[Debug] [2022-10-18 10:36:29] progress bar is 20
+[Debug] [2022-10-18 10:36:29] progress bar is 25
+[Debug] [2022-10-18 10:36:29] progress bar is 30
+[Debug] [2022-10-18 10:36:29] progress bar is 35
+[Debug] [2022-10-18 10:36:29] progress bar is 40
+[Debug] [2022-10-18 10:36:29] progress bar is 45
+[Debug] [2022-10-18 10:36:29] progress bar is 50
+[Debug] [2022-10-18 10:36:29] progress bar is 55
+[Debug] [2022-10-18 10:36:29] progress bar is 60
+[Debug] [2022-10-18 10:36:29] progress bar is 65
+[Debug] [2022-10-18 10:36:29] progress bar is 70
+[Debug] [2022-10-18 10:36:29] progress bar is 75
+[Debug] [2022-10-18 10:36:29] progress bar is 80
+[Debug] [2022-10-18 10:36:29] progress bar is 85
+[Debug] [2022-10-18 10:36:29] progress bar is 90
+[Debug] [2022-10-18 10:36:29] progress bar is 95
+[Debug] [2022-10-18 10:36:29] progress bar is 100
+[Debug] [2022-10-18 10:36:29] begin to read back config registerregAddr is 9
+[Debug] [2022-10-18 10:36:29] the value in the status register is :4193440
+[Debug] [2022-10-18 10:36:29] begin to read back config registerregAddr is 9
+[Debug] [2022-10-18 10:36:29] the idcode from the scanning is: 0x20303899
+[Debug] [2022-10-18 10:36:29] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:29] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:29] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:29] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:36:29] use jtag hub: USERDR1
+[Debug] [2022-10-18 10:36:29] Debug core 0 version id is 0x9001f003
+[Warn] [2022-10-18 10:36:29] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-10-18 10:36:29] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-10-18 10:36:29] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-10-18 10:36:29] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-10-18 10:36:29] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-10-18 10:36:29] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-10-18 10:36:29] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-10-18 10:36:29] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-10-18 10:36:29] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-10-18 10:36:29] Version id of degug core 10 is invalid : 0x0
+[Warn] [2022-10-18 10:36:29] Version id of degug core 11 is invalid : 0x0
+[Warn] [2022-10-18 10:36:29] Version id of degug core 12 is invalid : 0x0
+[Warn] [2022-10-18 10:36:30] Version id of degug core 13 is invalid : 0x0
+[Warn] [2022-10-18 10:36:30] Version id of degug core 14 is invalid : 0x0
+[Warn] [2022-10-18 10:36:30] Version id of degug core 15 is invalid : 0x0
+[Debug] [2022-10-18 10:36:30] use jtag hub: USERDR1
+[Warn] [2022-10-18 10:36:30] Version id of eye scan is invalid : 0x0
+[Debug] [2022-10-18 10:36:30] use jtag hub: USERDR2
+[Warn] [2022-10-18 10:36:30] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:30] use jtag hub: USERDR3
+[Warn] [2022-10-18 10:36:30] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:30] use jtag hub: USERDR4
+[Warn] [2022-10-18 10:36:30] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:30] use jtag hub: USERDR1
+[Warn] [2022-10-18 10:36:30] Version id of eye scan is invalid : 0x0
+[Debug] [2022-10-18 10:36:30] use jtag hub: USERDR2
+[Warn] [2022-10-18 10:36:30] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:30] use jtag hub: USERDR3
+[Warn] [2022-10-18 10:36:30] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:30] use jtag hub: USERDR4
+[Warn] [2022-10-18 10:36:30] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:36:30] cmd operation configure releases locker
+[Debug] [2022-10-18 10:37:43] Add a new user_thread, socket descriptor is 514 user_thread id is 0000000000001D00
+[Debug] [2022-10-18 10:37:43] After adding, map size is : 3
+[Debug] [2022-10-18 10:37:43] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-10-18 10:37:43] Remove the header data from the client, index : 0
+[Debug] [2022-10-18 10:37:43] _total_bytes_size : 16e6
+[Debug] [2022-10-18 10:37:43] cmd id :2713cmd name : run
+[Debug] [2022-10-18 10:37:43] the idcode from the scanning is: 0x20303899
+[Debug] [2022-10-18 10:37:43] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:37:43] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:37:43] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:37:43] the idcode from the scanning is: 0x0
+[Debug] [2022-10-18 10:37:43] use jtag hub: USERDR1
+[Debug] [2022-10-18 10:37:43] Debug core 0 version id is 0x9001f003
+[Warn] [2022-10-18 10:37:43] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 10 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 11 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 12 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 13 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 14 is invalid : 0x0
+[Warn] [2022-10-18 10:37:43] Version id of degug core 15 is invalid : 0x0
+[Debug] [2022-10-18 10:37:43] use jtag hub: USERDR1
+[Warn] [2022-10-18 10:37:43] Version id of eye scan is invalid : 0x0
+[Debug] [2022-10-18 10:37:43] use jtag hub: USERDR2
+[Warn] [2022-10-18 10:37:43] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:37:43] use jtag hub: USERDR3
+[Warn] [2022-10-18 10:37:43] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:37:43] use jtag hub: USERDR4
+[Warn] [2022-10-18 10:37:43] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-18 10:37:43] it is completed to reset the debugger core.
+[Debug] [2022-10-18 10:37:43] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000
+[Debug] [2022-10-18 10:37:43] the value of trigger condition downloaded is : 010
+[Debug] [2022-10-18 10:37:43] the ouput enable is : 0the value is: 0
+[Debug] [2022-10-18 10:37:43] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2022-10-18 10:37:43] Storage qualification is disable
+[Debug] [2022-10-18 10:37:43] the current data number in the memory is equal to the sample number : 200
+[Info] [2022-10-18 10:37:43] samples buffer is full.
+[Debug] [2022-10-18 10:37:43] begin to read back config registerregAddr is 9
+[Info] [2022-10-25 09:47:05] /***************************Start jtagserver***************************/
+[Info] [2022-10-25 09:47:05] Path: E:/PDS_2021.4-SP1.2/bin
+[Info] [2022-10-25 09:47:05] Version: 96435
+[Error] [2022-10-25 09:47:05] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::Negotiate at line 1506 in file e:\wf\2021.4\output_files\oem\fab_develop\branches\pds_2021.4\source\sw\cdt\cablemgr\cablepglpt.cpp compiled at May  7 2022.
+[Error] [2022-10-25 09:47:05] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::WriteCmd at line 1702 in file e:\wf\2021.4\output_files\oem\fab_develop\branches\pds_2021.4\source\sw\cdt\cablemgr\cablepglpt.cpp compiled at May  7 2022.
+[Debug] [2022-10-25 09:47:05] Add a new user_thread, socket descriptor is 1036 user_thread id is 0000000000004330
+[Debug] [2022-10-25 09:47:05] After adding, map size is : 1
+[Debug] [2022-10-25 09:47:05] Add a new user_thread, socket descriptor is 1116 user_thread id is 0000000000004330
+[Debug] [2022-10-25 09:47:05] After adding, map size is : 2
+[Debug] [2022-10-25 09:47:05] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-10-25 09:47:05] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-10-25 09:47:05] Remove the header data from the client, index : 0
+[Debug] [2022-10-25 09:47:05] _total_bytes_size : 158
+[Debug] [2022-10-25 09:47:05] Remove the header data from the client, index : 0
+[Debug] [2022-10-25 09:47:05] _total_bytes_size : 96
+[Debug] [2022-10-25 09:47:05] cmd id :40010cmd name : get_cable_paras
+[Error] [2022-10-25 09:47:06] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::Negotiate at line 1506 in file e:\wf\2021.4\output_files\oem\fab_develop\branches\pds_2021.4\source\sw\cdt\cablemgr\cablepglpt.cpp compiled at May  7 2022.
+[Error] [2022-10-25 09:47:06] E:CM Error: Parallel port read timeout. In function cdt_cable_manager::PgSppLptIOperator::WriteCmd at line 1702 in file e:\wf\2021.4\output_files\oem\fab_develop\branches\pds_2021.4\source\sw\cdt\cablemgr\cablepglpt.cpp compiled at May  7 2022.
+[Debug] [2022-10-25 09:47:07] cmd operation get_cable_paras releases locker
+[Debug] [2022-10-25 09:47:07] Remove the header data from the client, index : 0
+[Debug] [2022-10-25 09:47:07] _total_bytes_size : 90
+[Debug] [2022-10-25 09:47:07] cmd id :10001cmd name : open_cable
+[Debug] [2022-10-25 09:47:07] the idcode from the scanning is: 0x20303899
+[Debug] [2022-10-25 09:47:07] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:07] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:07] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:07] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:07] use jtag hub: USERDR1
+[Warn] [2022-10-25 09:47:07] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:07] use jtag hub: USERDR2
+[Warn] [2022-10-25 09:47:07] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:07] use jtag hub: USERDR3
+[Warn] [2022-10-25 09:47:07] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:07] use jtag hub: USERDR4
+[Warn] [2022-10-25 09:47:07] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:07] use jtag hub: USERDR1
+[Warn] [2022-10-25 09:47:07] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:07] use jtag hub: USERDR2
+[Warn] [2022-10-25 09:47:07] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:07] use jtag hub: USERDR3
+[Warn] [2022-10-25 09:47:07] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:07] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:08] use jtag hub: USERDR4
+[Warn] [2022-10-25 09:47:08] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:08] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:08] use jtag hub: USERDR1
+[Warn] [2022-10-25 09:47:08] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:08] use jtag hub: USERDR2
+[Warn] [2022-10-25 09:47:08] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:08] use jtag hub: USERDR3
+[Warn] [2022-10-25 09:47:08] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:08] use jtag hub: USERDR4
+[Warn] [2022-10-25 09:47:08] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:08] use jtag hub: USERDR1
+[Warn] [2022-10-25 09:47:08] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:08] use jtag hub: USERDR2
+[Warn] [2022-10-25 09:47:08] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:08] use jtag hub: USERDR3
+[Warn] [2022-10-25 09:47:08] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:08] use jtag hub: USERDR4
+[Warn] [2022-10-25 09:47:08] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:08] cmd operation open_cable releases locker
+[Debug] [2022-10-25 09:47:15] Remove the header data from the client, index : 0
+[Debug] [2022-10-25 09:47:15] _total_bytes_size : 1d2
+[Debug] [2022-10-25 09:47:15] cmd id :2712cmd name : configure
+[Debug] [2022-10-25 09:47:15] the idcode from the scanning is: 0x20303899
+[Debug] [2022-10-25 09:47:15] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:15] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:15] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:15] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:15] begin to read back config registerregAddr is 4
+[Debug] [2022-10-25 09:47:15] progress bar is 6
+[Debug] [2022-10-25 09:47:15] progress bar is a
+[Debug] [2022-10-25 09:47:15] progress bar is f
+[Debug] [2022-10-25 09:47:15] progress bar is 14
+[Debug] [2022-10-25 09:47:15] progress bar is 19
+[Debug] [2022-10-25 09:47:15] progress bar is 1e
+[Debug] [2022-10-25 09:47:15] progress bar is 23
+[Debug] [2022-10-25 09:47:15] progress bar is 28
+[Debug] [2022-10-25 09:47:15] progress bar is 2d
+[Debug] [2022-10-25 09:47:15] progress bar is 32
+[Debug] [2022-10-25 09:47:15] progress bar is 37
+[Debug] [2022-10-25 09:47:15] progress bar is 3c
+[Debug] [2022-10-25 09:47:16] progress bar is 41
+[Debug] [2022-10-25 09:47:16] progress bar is 46
+[Debug] [2022-10-25 09:47:16] progress bar is 4b
+[Debug] [2022-10-25 09:47:16] progress bar is 50
+[Debug] [2022-10-25 09:47:16] progress bar is 55
+[Debug] [2022-10-25 09:47:16] progress bar is 5a
+[Debug] [2022-10-25 09:47:16] progress bar is 5f
+[Debug] [2022-10-25 09:47:16] progress bar is 64
+[Debug] [2022-10-25 09:47:16] begin to read back config registerregAddr is 9
+[Debug] [2022-10-25 09:47:16] the value in the status register is :3ffca0
+[Debug] [2022-10-25 09:47:16] begin to read back config registerregAddr is 9
+[Debug] [2022-10-25 09:47:16] the idcode from the scanning is: 0x20303899
+[Debug] [2022-10-25 09:47:16] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:16] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:16] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:16] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR1
+[Debug] [2022-10-25 09:47:16] Debug core 0 version id is 0x800f8018
+[Warn] [2022-10-25 09:47:16] Version id of degug core 0 is invalid : 0x800f8018
+[Warn] [2022-10-25 09:47:16] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core a is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core b is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core c is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core d is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core e is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core f is invalid : 0x0
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR2
+[Warn] [2022-10-25 09:47:16] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR3
+[Warn] [2022-10-25 09:47:16] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR4
+[Warn] [2022-10-25 09:47:16] Version id of degug core 0 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 1 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 2 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 3 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 4 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 5 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 6 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 7 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 8 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core 9 is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core a is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core b is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core c is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core d is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core e is invalid : 0xffffffff
+[Warn] [2022-10-25 09:47:16] Version id of degug core f is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR1
+[Debug] [2022-10-25 09:47:16] Debug core 0 version id is 0x9001f003
+[Warn] [2022-10-25 09:47:16] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core a is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core b is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core c is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core d is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core e is invalid : 0x0
+[Warn] [2022-10-25 09:47:16] Version id of degug core f is invalid : 0x0
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR1
+[Warn] [2022-10-25 09:47:16] Version id of eye scan is invalid : 0x0
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR2
+[Warn] [2022-10-25 09:47:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR3
+[Warn] [2022-10-25 09:47:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR4
+[Warn] [2022-10-25 09:47:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR1
+[Warn] [2022-10-25 09:47:16] Version id of eye scan is invalid : 0x0
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR2
+[Warn] [2022-10-25 09:47:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR3
+[Warn] [2022-10-25 09:47:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:16] use jtag hub: USERDR4
+[Warn] [2022-10-25 09:47:16] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:17] cmd operation configure releases locker
+[Debug] [2022-10-25 09:47:19] Add a new user_thread, socket descriptor is 554 user_thread id is 0000000000004330
+[Debug] [2022-10-25 09:47:19] After adding, map size is : 3
+[Debug] [2022-10-25 09:47:19] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2022-10-25 09:47:19] Remove the header data from the client, index : 0
+[Debug] [2022-10-25 09:47:19] _total_bytes_size : 160c
+[Debug] [2022-10-25 09:47:19] cmd id :2713cmd name : run
+[Debug] [2022-10-25 09:47:20] the idcode from the scanning is: 0x20303899
+[Debug] [2022-10-25 09:47:20] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:20] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:20] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:20] the idcode from the scanning is: 0x0
+[Debug] [2022-10-25 09:47:20] use jtag hub: USERDR1
+[Debug] [2022-10-25 09:47:20] Debug core 0 version id is 0x9001f003
+[Warn] [2022-10-25 09:47:20] Version id of degug core 1 is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core 2 is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core 3 is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core 4 is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core 5 is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core 6 is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core 7 is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core 8 is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core 9 is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core a is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core b is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core c is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core d is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core e is invalid : 0x0
+[Warn] [2022-10-25 09:47:20] Version id of degug core f is invalid : 0x0
+[Debug] [2022-10-25 09:47:20] use jtag hub: USERDR1
+[Warn] [2022-10-25 09:47:20] Version id of eye scan is invalid : 0x0
+[Debug] [2022-10-25 09:47:20] use jtag hub: USERDR2
+[Warn] [2022-10-25 09:47:20] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:20] use jtag hub: USERDR3
+[Warn] [2022-10-25 09:47:20] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:20] use jtag hub: USERDR4
+[Warn] [2022-10-25 09:47:20] Version id of eye scan is invalid : 0xffffffff
+[Debug] [2022-10-25 09:47:20] it is completed to reset the debugger core.
+[Debug] [2022-10-25 09:47:20] the value of trigger unit downloaded is : 0000000000000000000000000000000000000000000000000000000000000000000000
+[Debug] [2022-10-25 09:47:20] the value of trigger condition downloaded is : 010
+[Debug] [2022-10-25 09:47:20] the ouput enable is : 0the value is: 0
+[Debug] [2022-10-25 09:47:20] the value of config storage style is : 00000100000000, samples_num_in_window is :200
+[Debug] [2022-10-25 09:47:20] Storage qualification is disable
+[Debug] [2022-10-25 09:47:20] the current data number in the memory is equal to the sample number : 200
+[Info] [2022-10-25 09:47:20] samples buffer is full.
+[Debug] [2022-10-25 09:47:20] begin to read back config registerregAddr is 9

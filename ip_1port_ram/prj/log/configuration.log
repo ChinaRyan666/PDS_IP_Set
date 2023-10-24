@@ -1,0 +1,73 @@
+[Info] [2022-10-11 10:17:38] /***************************Start Configuration***************************/
+[Info] [2022-10-11 10:17:38] Path: E:/PDS_2022.1/Pango/PDS_2022.1/bin
+[Info] [2022-10-11 10:17:38] Version: 99559
+[Info] [2022-10-11 10:17:39] Current Path: C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj
+[Info] [2022-10-11 10:17:39] PDS Dir Path: C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj
+[Info] [2022-10-11 10:17:41] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2022-10-11 10:17:41] Client Local host name:DESKTOP-HFJ50FN
+[Debug] [2022-10-11 10:17:41] Client Local Address:192.168.1.102
+[Debug] [2022-10-11 10:17:41] Client Local Address:192.168.153.1
+[Debug] [2022-10-11 10:17:41] Client Local Address:192.168.206.1
+[Debug] [2022-10-11 10:17:41] Client Local Address:192.168.2.192
+[Debug] [2022-10-11 10:17:41] Server Address:127.0.0.1, Port:65420
+[Info] [2022-10-11 10:17:42] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2022-10-11 10:17:42] Finish.
+[Info] [2022-10-11 10:17:42] Connect server succeeded
+[Debug] [2022-10-11 10:17:42] Send RPC:1
+[Debug] [2022-10-11 10:17:42] Send cmd [check version information:40005] OK
+[Debug] [2022-10-11 10:17:42] Send RPC:2
+[Debug] [2022-10-11 10:17:42] Send cmd [get_cable_paras:40011] OK
+[Debug] [2022-10-11 10:17:42] Begin to send initialize chain cmd...
+[Debug] [2022-10-11 10:17:42] Send RPC:3
+[Debug] [2022-10-11 10:17:42] Send cmd [Open config cable:20001] OK
+[Debug] [2022-10-11 10:17:42] End to send initialize chain cmd.
+[Debug] [2022-10-11 10:17:42] COMMAND[check version information] execute successfully, takes 0.3 secs.
+[Debug] [2022-10-11 10:17:43] COMMAND[get_cable_paras] execute successfully, takes 1.2 secs.
+[Debug] [2022-10-11 10:17:44] begin the exec of open cable cmd...
+[Debug] [2022-10-11 10:17:44] Begin to deal with chain from server...
+[Debug] [2022-10-11 10:17:44] Begin to set user chain...
+[Debug] [2022-10-11 10:17:44] End to set user chain.
+[Debug] [2022-10-11 10:17:44] Begin to update graphic item and tree item ...
+[Debug] [2022-10-11 10:17:44] End to update graphic item and tree item ...
+[Info] [2022-10-11 10:17:48] set OpenLastPath: C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj/generate_bitstream/ip_1port_ram.sbit
+[Debug] [2022-10-11 10:17:48] begin to get device info from CFG file...
+[Debug] [2022-10-11 10:17:48] end to get device info from CFG file...
+[Debug] [2022-10-11 10:17:48] Begin to update graphic item and tree item ...
+[Debug] [2022-10-11 10:17:48] End to update graphic item and tree item ...
+[Debug] [2022-10-11 10:17:48] End to deal wiht chain from server.
+[Debug] [2022-10-11 10:17:48] end the exec of open cable cmd.
+[Debug] [2022-10-11 10:17:48] COMMAND[Open config cable] execute successfully, takes 5.9 secs.
+[Debug] [2022-10-11 10:17:50] Begin to send programming cmd...
+[Debug] [2022-10-11 10:17:50] Send RPC:4
+[Debug] [2022-10-11 10:17:50] Begin to send program data.
+[Debug] [2022-10-11 10:17:50] End to send program data.
+[Debug] [2022-10-11 10:17:50] Send cmd [Program:20002] OK
+[Debug] [2022-10-11 10:17:50] The value of Progress is 6
+[Debug] [2022-10-11 10:17:50] The value of Progress is 10
+[Debug] [2022-10-11 10:17:50] The value of Progress is 15
+[Debug] [2022-10-11 10:17:50] The value of Progress is 20
+[Debug] [2022-10-11 10:17:50] The value of Progress is 25
+[Debug] [2022-10-11 10:17:50] The value of Progress is 30
+[Debug] [2022-10-11 10:17:50] The value of Progress is 35
+[Debug] [2022-10-11 10:17:50] The value of Progress is 40
+[Debug] [2022-10-11 10:17:50] The value of Progress is 45
+[Debug] [2022-10-11 10:17:50] The value of Progress is 50
+[Debug] [2022-10-11 10:17:50] The value of Progress is 55
+[Debug] [2022-10-11 10:17:50] The value of Progress is 60
+[Debug] [2022-10-11 10:17:50] The value of Progress is 65
+[Debug] [2022-10-11 10:17:50] The value of Progress is 70
+[Debug] [2022-10-11 10:17:50] The value of Progress is 75
+[Debug] [2022-10-11 10:17:50] The value of Progress is 80
+[Debug] [2022-10-11 10:17:50] The value of Progress is 85
+[Debug] [2022-10-11 10:17:50] The value of Progress is 90
+[Debug] [2022-10-11 10:17:51] The value of Progress is 95
+[Debug] [2022-10-11 10:17:51] The value of Progress is 100
+[Debug] [2022-10-11 10:17:51] COMMAND[Program] execute successfully, takes 1.0 secs.
+[Debug] [2022-10-11 10:17:51] End to send programming cmd.
+[Info] [2022-10-11 10:22:07] /***************************End Configration***************************/
+[Info] [2022-10-18 10:36:02] /***************************Start Configuration***************************/
+[Info] [2022-10-18 10:36:02] Path: E:/PDS_2022.1/Pango/PDS_2022.1/bin
+[Info] [2022-10-18 10:36:02] Version: 99559
+[Info] [2022-10-18 10:36:03] Current Path: C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj
+[Info] [2022-10-18 10:36:03] PDS Dir Path: C:/Users/ch/Desktop/2022.1/ip_1port_ram/prj
+[Info] [2022-10-18 10:36:05] /***************************End Configration***************************/

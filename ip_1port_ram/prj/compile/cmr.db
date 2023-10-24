@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>F:/1_Verilog/11_ip_1port_ram/rtl/ip_1port_ram.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>F:/1_Verilog/11_ip_1port_ram/rtl/ram_rw.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/ram_1port.idf</data>
+            <data>IP</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="6">
+        <column_headers>
+            <data>Cpu Time (s)</data>
+            <data>Real Time (s)</data>
+            <data>Peak Memory (B)</data>
+            <data>Operation System</data>
+            <data>CPU</data>
+            <data>RAM(GB)</data>
+        </column_headers>
+        <row>
+            <data>1</data>
+            <data>2</data>
+            <data>100,421,632</data>
+            <data>WINDOWS 10 x86_64</data>
+            <data>AMD Ryzen 9 3900X 12-Core Processor</data>
+            <data>15</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data message="4">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file F:/1_Verilog/11_ip_1port_ram/rtl/ip_1port_ram.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [F:/1_Verilog/11_ip_1port_ram/rtl/ip_1port_ram.v(line number: 22)] Analyzing module ip_1port_ram (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file F:/1_Verilog/11_ip_1port_ram/rtl/ram_rw.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [F:/1_Verilog/11_ip_1port_ram/rtl/ram_rw.v(line number: 23)] Analyzing module ram_rw (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 19)] Analyzing module ipml_spram_v1_5_ram_1port (library work)</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 140)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 144)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 148)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 149)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 152)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 153)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 156)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 157)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 160)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 161)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 164)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 165)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 168)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 169)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 172)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 173)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 176)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 177)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 180)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 181)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 184)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 185)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 188)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 189)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 192)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 193)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 197)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 198)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 201)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 202)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 206)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 207)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 214)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 215)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2010: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 138)] Ignore initial statements except memory $readmemh/$readmemb initialization statements</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/ram_1port.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/ram_1port.v(line number: 18)] Analyzing module ram_1port (library work)</data>
+        </row>
+        <row>
+            <data message="4">Module &quot;ip_1port_ram&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [F:/1_Verilog/11_ip_1port_ram/rtl/ip_1port_ram.v(line number: 22)] Elaborating module ip_1port_ram</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [F:/1_Verilog/11_ip_1port_ram/rtl/ip_1port_ram.v(line number: 38)] Elaborating instance u_ram_1port</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/ram_1port.v(line number: 18)] Elaborating module ram_1port</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/ram_1port.v(line number: 126)] Elaborating instance U_ipml_spram_ram_1port</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 19)] Elaborating module ipml_spram_v1_5_ram_1port</data>
+        </row>
+        <row>
+            <data message="4">Module instance {ip_1port_ram.u_ram_1port.U_ipml_spram_ram_1port} parameter value:
+    c_SIM_DEVICE = PGL22G
+    c_ADDR_WIDTH = 32'b00000000000000000000000000000101
+    c_DATA_WIDTH = 32'b00000000000000000000000000001000
+    c_OUTPUT_REG = 32'b00000000000000000000000000000000
+    c_RD_OCE_EN = 32'b00000000000000000000000000000000
+    c_CLK_EN = 32'b00000000000000000000000000000000
+    c_ADDR_STROBE_EN = 32'b00000000000000000000000000000000
+    c_RESET_TYPE = ASYNC_RESET
+    c_POWER_OPT = 32'b00000000000000000000000000000000
+    c_CLK_OR_POL_INV = 32'b00000000000000000000000000000000
+    c_INIT_FILE = NONE
+    c_INIT_FORMAT = BIN
+    c_WR_BYTE_EN = 32'b00000000000000000000000000000000
+    c_BE_WIDTH = 32'b00000000000000000000000000000001
+    c_RAM_MODE = SINGLE_PORT
+    c_WRITE_MODE = NORMAL_WRITE</data>
+        </row>
+        <row>
+            <data message="6">[F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 140)] IPSpecCheck: 01030300 ipml_flex_spram parameter setting error !!!: c_ADDR_WIDTH must between 8-20 (module instance : ip_1port_ram.u_ram_1port.U_ipml_spram_ram_1port)</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 265)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 269)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 273)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 277)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 277)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 281)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 281)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 512)] Elaborating instance U_GTP_DRM9K</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 426)] Net DA_bus[8] in ipml_spram_v1_5_ram_1port(original module ipml_spram_v1_5_ram_1port) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 426)] Net DA_bus[17] in ipml_spram_v1_5_ram_1port(original module ipml_spram_v1_5_ram_1port) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 427)] Net DB_bus[8] in ipml_spram_v1_5_ram_1port(original module ipml_spram_v1_5_ram_1port) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [F:/1_Verilog/11_ip_1port_ram/prj/ipcore/ram_1port/rtl/ipml_spram_v1_5_ram_1port.v(line number: 427)] Net DB_bus[17] in ipml_spram_v1_5_ram_1port(original module ipml_spram_v1_5_ram_1port) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [F:/1_Verilog/11_ip_1port_ram/rtl/ip_1port_ram.v(line number: 47)] Elaborating instance u_ram_rw</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [F:/1_Verilog/11_ip_1port_ram/rtl/ram_rw.v(line number: 23)] Elaborating module ram_rw</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N106 (bmsWIDEINV).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N109 (bmsREDAND).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N83 (bmsREDAND).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N84 (bmsREDAND).</data>
+        </row>
+    </table>
+    <general_container id="compile_settings">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PGL22G-6MBG324</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>ip_1port_ram</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>SystemVerilog</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Allow Duplicate Modules</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>F:/1_Verilog/11_ip_1port_ram/prj	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>

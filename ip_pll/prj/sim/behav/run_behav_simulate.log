@@ -1,0 +1,91 @@
+# Reading F:/modeltech64_10.4/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# do {run_behav_compile.tcl}
+# ** Error: (vlib-35) Failed to create directory "work".
+# 
+# File exists. (errno = EEXIST)
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work ./work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet usim F:/modeltech64_10.4/pango_sim_libraries/usim 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet adc F:/modeltech64_10.4/pango_sim_libraries/adc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ddrc F:/modeltech64_10.4/pango_sim_libraries/ddrc 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ddrphy F:/modeltech64_10.4/pango_sim_libraries/ddrphy 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet hsst_e2 F:/modeltech64_10.4/pango_sim_libraries/hsst_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet iolhr_dft F:/modeltech64_10.4/pango_sim_libraries/iolhr_dft 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ipal_e1 F:/modeltech64_10.4/pango_sim_libraries/ipal_e1 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet pciegen2 F:/modeltech64_10.4/pango_sim_libraries/pciegen2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:10:59 on Oct 25,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/rtl/ip_pll.v -work work 
+# -- Compiling module ip_pll
+# 
+# Top level modules:
+# 	ip_pll
+# End time: 10:10:59 on Oct 25,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:10:59 on Oct 25,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/prj/ipcore/pll_clk/pll_clk.v -work work 
+# -- Compiling module pll_clk
+# 
+# Top level modules:
+# 	pll_clk
+# End time: 10:10:59 on Oct 25,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 10:10:59 on Oct 25,2022
+# vlog -reportprogress 300 C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/sim/tb/tb_ip_pll.v -work work 
+# -- Compiling module tb_ip_pll
+# 
+# Top level modules:
+# 	tb_ip_pll
+# End time: 10:10:59 on Oct 25,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# do {run_behav_simulate.tcl}
+# vsim -gui -do "do {run_behav_compile.tcl};do {run_behav_simulate.tcl}" -l run_behav_simulate.log 
+# Start time: 10:10:59 on Oct 25,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/prj/sim/behav/work.tb_ip_pll
+# Loading work.tb_ip_pll
+# Refreshing C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/prj/sim/behav/work.ip_pll
+# Loading work.ip_pll
+# Refreshing C:/Users/ch/Desktop/2021.4-SP1.2/ip_pll/prj/sim/behav/work.pll_clk
+# Loading work.pll_clk
+# Loading usim.GTP_PLL_E1
+# Loading usim.GTP_GRS
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# End time: 10:11:34 on Oct 25,2022, Elapsed time: 0:00:35
+# Errors: 0, Warnings: 1

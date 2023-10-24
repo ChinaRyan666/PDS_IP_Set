@@ -1,0 +1,540 @@
+
+----------------------------------------------------------------------------------------------------
+| Tool Version : Fabric Compiler (version 2022.1 <build 99559>)
+| Date         : Tue Oct 11 13:33:49 2022
+| Design       : ip_pll
+| Device       : PGL22G
+| Speed Grade  : -6
+| Package      : MBG324
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+| Timing Models: Production
+| Tcl Command  : report_timing 
+----------------------------------------------------------------------------------------------------
+
+Timing analysis mode : multi corner
+
+ Clock Summary:                                                                                         
+********************************************************************************************************
+                                                                           Clock   Non-clock            
+ Clock                    Period       Waveform       Type                 Loads       Loads  Sources   
+--------------------------------------------------------------------------------------------------------
+ clk                      20.000       {0 10}         Declared                 0           5  {sys_clk} 
+========================================================================================================
+
+ Clock Groups:                                                                                      
+****************************************************************************************************
+ Clock Group                   Group Type                 Clocks                                    
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+ Performance Summary:                                                                               
+****************************************************************************************************
+                              Requested       Estimated      Requested      Estimated               
+ Clock                        Frequency       Frequency      Period         Period             Slack
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Design Summary : All Constraints Met.
+
+Setup Summary(Slow Corner):
+****************************************************************************************************
+                                                                          TNS Failing      TNS Total
+ Launch Clock           Capture Clock              WNS(ns)     TNS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Hold Summary(Slow Corner):
+****************************************************************************************************
+                                                                          THS Failing      THS Total
+ Launch Clock           Capture Clock              WHS(ns)     THS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Recovery Summary(Slow Corner):
+****************************************************************************************************
+                                                                          TNS Failing      TNS Total
+ Launch Clock           Capture Clock              WNS(ns)     TNS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Removal Summary(Slow Corner):
+****************************************************************************************************
+                                                                          THS Failing      THS Total
+ Launch Clock           Capture Clock              WHS(ns)     THS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Minimum Pulse Width Summary(Slow Corner):
+****************************************************************************************************
+                                                                         WPWS Failing     WPWS Total
+ Clock                                            WPWS(ns)    TPWS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Setup Summary(Fast Corner):
+****************************************************************************************************
+                                                                          TNS Failing      TNS Total
+ Launch Clock           Capture Clock              WNS(ns)     TNS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Hold Summary(Fast Corner):
+****************************************************************************************************
+                                                                          THS Failing      THS Total
+ Launch Clock           Capture Clock              WHS(ns)     THS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Recovery Summary(Fast Corner):
+****************************************************************************************************
+                                                                          TNS Failing      TNS Total
+ Launch Clock           Capture Clock              WNS(ns)     TNS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Removal Summary(Fast Corner):
+****************************************************************************************************
+                                                                          THS Failing      THS Total
+ Launch Clock           Capture Clock              WHS(ns)     THS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Minimum Pulse Width Summary(Fast Corner):
+****************************************************************************************************
+                                                                         WPWS Failing     WPWS Total
+ Clock                                            WPWS(ns)    TPWS(ns)      Endpoints      Endpoints
+----------------------------------------------------------------------------------------------------
+====================================================================================================
+
+Slow Corner
+****************************************************************************************************
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_50m (port)
+Path Group  : **default**
+Path Type   : max (slow corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 f       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    1.200       1.293 f       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       1.293         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.066       1.359 f       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.405       1.764         _N0              
+ PLL_82_319/CLK_OUT2               td                    0.526       2.290 f       u_pll_clk/u_pll_e1/goppll/CLKOUT2
+                                   net (fanout=1)        0.880       3.170         nt_clk_50m       
+ USCM_74_131/CLK_USCM              td                    0.000       3.170 f       USCMROUTE_2/CLKOUT
+                                   net (fanout=1)        1.895       5.065         ntR6             
+ CLMA_10_260/Y6CD                  td                    0.114       5.179 f       CLKROUTE_2/Z     
+                                   net (fanout=1)        0.215       5.394         ntR5             
+ IOL_7_266/DO                      td                    0.122       5.516 f       clk_50m_obuf/opit_1/O
+                                   net (fanout=1)        0.000       5.516         clk_50m_obuf/ntO 
+ IOBD_0_266/PAD                    td                    2.788       8.304 f       clk_50m_obuf/opit_0/O
+                                   net (fanout=1)        0.083       8.387         clk_50m          
+ C1                                                                        f       clk_50m (port)   
+
+ Data arrival time                                                   8.387         Logic Levels: 7  
+                                                                                   Logic: 4.816ns(57.422%), Route: 3.571ns(42.578%)
+====================================================================================================
+
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_100m (port)
+Path Group  : **default**
+Path Type   : max (slow corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 f       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    1.200       1.293 f       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       1.293         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.066       1.359 f       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.405       1.764         _N0              
+ PLL_82_319/CLK_OUT0               td                    0.521       2.285 f       u_pll_clk/u_pll_e1/goppll/CLKOUT0
+                                   net (fanout=1)        0.880       3.165         nt_clk_100m      
+ USCM_74_132/CLK_USCM              td                    0.000       3.165 f       USCMROUTE_1/CLKOUT
+                                   net (fanout=1)        1.880       5.045         ntR4             
+ CLMS_10_273/Y6AB                  td                    0.111       5.156 f       CLKROUTE_1/Z     
+                                   net (fanout=1)        0.215       5.371         ntR3             
+ IOL_7_269/DO                      td                    0.122       5.493 f       clk_100m_obuf/opit_1/O
+                                   net (fanout=1)        0.000       5.493         clk_100m_obuf/ntO
+ IOBS_0_269/PAD                    td                    2.788       8.281 f       clk_100m_obuf/opit_0/O
+                                   net (fanout=1)        0.088       8.369         clk_100m         
+ A1                                                                        f       clk_100m (port)  
+
+ Data arrival time                                                   8.369         Logic Levels: 7  
+                                                                                   Logic: 4.808ns(57.450%), Route: 3.561ns(42.550%)
+====================================================================================================
+
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_100m_180deg (port)
+Path Group  : **default**
+Path Type   : max (slow corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 f       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    1.200       1.293 f       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       1.293         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.066       1.359 f       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.405       1.764         _N0              
+ PLL_82_319/CLK_OUT1               td                    0.523       2.287 f       u_pll_clk/u_pll_e1/goppll/CLKOUT1
+                                   net (fanout=1)        0.880       3.167         nt_clk_100m_180deg
+ USCM_74_133/CLK_USCM              td                    0.000       3.167 f       USCMROUTE_0/CLKOUT
+                                   net (fanout=1)        1.865       5.032         ntR2             
+ CLMS_10_285/Y6AB                  td                    0.111       5.143 f       CLKROUTE_0/Z     
+                                   net (fanout=1)        0.215       5.358         ntR1             
+ IOL_7_281/DO                      td                    0.122       5.480 f       clk_100m_180deg_obuf/opit_1/O
+                                   net (fanout=1)        0.000       5.480         clk_100m_180deg_obuf/ntO
+ IOBS_0_281/PAD                    td                    2.788       8.268 f       clk_100m_180deg_obuf/opit_0/O
+                                   net (fanout=1)        0.088       8.356         clk_100m_180deg  
+ A2                                                                        f       clk_100m_180deg (port)
+
+ Data arrival time                                                   8.356         Logic Levels: 7  
+                                                                                   Logic: 4.810ns(57.563%), Route: 3.546ns(42.437%)
+====================================================================================================
+
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_25m_75 (port)
+Path Group  : **default**
+Path Type   : min (slow corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 r       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    0.916       1.009 r       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       1.009         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.054       1.063 r       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.295       1.358         _N0              
+ PLL_82_319/CLK_OUT4               td                    0.440       1.798 r       u_pll_clk/u_pll_e1/goppll/CLKOUT4
+                                   net (fanout=1)        0.728       2.526         nt_clk_25m_75    
+ USCM_74_128/CLK_USCM              td                    0.000       2.526 r       USCMROUTE_3/CLKOUT
+                                   net (fanout=1)        1.600       4.126         ntR8             
+ CLMS_10_269/Y6AB                  td                    0.107       4.233 r       CLKROUTE_3/Z     
+                                   net (fanout=1)        0.208       4.441         ntR7             
+ IOL_7_265/DO                      td                    0.105       4.546 r       clk_25m_75_obuf/opit_1/O
+                                   net (fanout=1)        0.000       4.546         clk_25m_75_obuf/ntO
+ IOBS_0_265/PAD                    td                    1.782       6.328 r       clk_25m_75_obuf/opit_0/O
+                                   net (fanout=1)        0.079       6.407         clk_25m_75       
+ C2                                                                        r       clk_25m_75 (port)
+
+ Data arrival time                                                   6.407         Logic Levels: 7  
+                                                                                   Logic: 3.404ns(53.129%), Route: 3.003ns(46.871%)
+====================================================================================================
+
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_25m (port)
+Path Group  : **default**
+Path Type   : min (slow corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 r       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    0.916       1.009 r       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       1.009         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.054       1.063 r       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.295       1.358         _N0              
+ PLL_82_319/CLK_OUT3               td                    0.438       1.796 r       u_pll_clk/u_pll_e1/goppll/CLKOUT3
+                                   net (fanout=1)        0.728       2.524         nt_clk_25m       
+ USCM_74_129/CLK_USCM              td                    0.000       2.524 r       USCMROUTE_4/CLKOUT
+                                   net (fanout=1)        1.615       4.139         ntR10            
+ CLMA_10_256/Y6CD                  td                    0.110       4.249 r       CLKROUTE_4/Z     
+                                   net (fanout=1)        0.208       4.457         ntR9             
+ IOL_7_262/DO                      td                    0.105       4.562 r       clk_25m_obuf/opit_1/O
+                                   net (fanout=1)        0.000       4.562         clk_25m_obuf/ntO 
+ IOBD_0_262/PAD                    td                    1.871       6.433 r       clk_25m_obuf/opit_0/O
+                                   net (fanout=1)        0.042       6.475         clk_25m          
+ G4                                                                        r       clk_25m (port)   
+
+ Data arrival time                                                   6.475         Logic Levels: 7  
+                                                                                   Logic: 3.494ns(53.961%), Route: 2.981ns(46.039%)
+====================================================================================================
+
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_100m_180deg (port)
+Path Group  : **default**
+Path Type   : min (slow corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 r       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    0.916       1.009 r       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       1.009         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.054       1.063 r       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.295       1.358         _N0              
+ PLL_82_319/CLK_OUT1               td                    0.435       1.793 r       u_pll_clk/u_pll_e1/goppll/CLKOUT1
+                                   net (fanout=1)        0.728       2.521         nt_clk_100m_180deg
+ USCM_74_133/CLK_USCM              td                    0.000       2.521 r       USCMROUTE_0/CLKOUT
+                                   net (fanout=1)        1.580       4.101         ntR2             
+ CLMS_10_285/Y6AB                  td                    0.107       4.208 r       CLKROUTE_0/Z     
+                                   net (fanout=1)        0.208       4.416         ntR1             
+ IOL_7_281/DO                      td                    0.105       4.521 r       clk_100m_180deg_obuf/opit_1/O
+                                   net (fanout=1)        0.000       4.521         clk_100m_180deg_obuf/ntO
+ IOBS_0_281/PAD                    td                    1.871       6.392 r       clk_100m_180deg_obuf/opit_0/O
+                                   net (fanout=1)        0.088       6.480         clk_100m_180deg  
+ A2                                                                        r       clk_100m_180deg (port)
+
+ Data arrival time                                                   6.480         Logic Levels: 7  
+                                                                                   Logic: 3.488ns(53.827%), Route: 2.992ns(46.173%)
+====================================================================================================
+
+====================================================================================================
+Fast Corner
+****************************************************************************************************
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_50m (port)
+Path Group  : **default**
+Path Type   : max (fast corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 f       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    0.917       1.010 f       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       1.010         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.045       1.055 f       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.330       1.385         _N0              
+ PLL_82_319/CLK_OUT2               td                    0.376       1.761 f       u_pll_clk/u_pll_e1/goppll/CLKOUT2
+                                   net (fanout=1)        0.644       2.405         nt_clk_50m       
+ USCM_74_131/CLK_USCM              td                    0.000       2.405 f       USCMROUTE_2/CLKOUT
+                                   net (fanout=1)        1.511       3.916         ntR6             
+ CLMA_10_260/Y6CD                  td                    0.086       4.002 f       CLKROUTE_2/Z     
+                                   net (fanout=1)        0.189       4.191         ntR5             
+ IOL_7_266/DO                      td                    0.078       4.269 f       clk_50m_obuf/opit_1/O
+                                   net (fanout=1)        0.000       4.269         clk_50m_obuf/ntO 
+ IOBD_0_266/PAD                    td                    1.960       6.229 f       clk_50m_obuf/opit_0/O
+                                   net (fanout=1)        0.083       6.312         clk_50m          
+ C1                                                                        f       clk_50m (port)   
+
+ Data arrival time                                                   6.312         Logic Levels: 7  
+                                                                                   Logic: 3.462ns(54.848%), Route: 2.850ns(45.152%)
+====================================================================================================
+
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_100m (port)
+Path Group  : **default**
+Path Type   : max (fast corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 f       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    0.917       1.010 f       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       1.010         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.045       1.055 f       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.330       1.385         _N0              
+ PLL_82_319/CLK_OUT0               td                    0.372       1.757 f       u_pll_clk/u_pll_e1/goppll/CLKOUT0
+                                   net (fanout=1)        0.644       2.401         nt_clk_100m      
+ USCM_74_132/CLK_USCM              td                    0.000       2.401 f       USCMROUTE_1/CLKOUT
+                                   net (fanout=1)        1.498       3.899         ntR4             
+ CLMS_10_273/Y6AB                  td                    0.084       3.983 f       CLKROUTE_1/Z     
+                                   net (fanout=1)        0.189       4.172         ntR3             
+ IOL_7_269/DO                      td                    0.078       4.250 f       clk_100m_obuf/opit_1/O
+                                   net (fanout=1)        0.000       4.250         clk_100m_obuf/ntO
+ IOBS_0_269/PAD                    td                    1.960       6.210 f       clk_100m_obuf/opit_0/O
+                                   net (fanout=1)        0.088       6.298         clk_100m         
+ A1                                                                        f       clk_100m (port)  
+
+ Data arrival time                                                   6.298         Logic Levels: 7  
+                                                                                   Logic: 3.456ns(54.875%), Route: 2.842ns(45.125%)
+====================================================================================================
+
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_100m_180deg (port)
+Path Group  : **default**
+Path Type   : max (fast corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 f       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    0.917       1.010 f       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       1.010         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.045       1.055 f       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.330       1.385         _N0              
+ PLL_82_319/CLK_OUT1               td                    0.374       1.759 f       u_pll_clk/u_pll_e1/goppll/CLKOUT1
+                                   net (fanout=1)        0.644       2.403         nt_clk_100m_180deg
+ USCM_74_133/CLK_USCM              td                    0.000       2.403 f       USCMROUTE_0/CLKOUT
+                                   net (fanout=1)        1.485       3.888         ntR2             
+ CLMS_10_285/Y6AB                  td                    0.084       3.972 f       CLKROUTE_0/Z     
+                                   net (fanout=1)        0.189       4.161         ntR1             
+ IOL_7_281/DO                      td                    0.078       4.239 f       clk_100m_180deg_obuf/opit_1/O
+                                   net (fanout=1)        0.000       4.239         clk_100m_180deg_obuf/ntO
+ IOBS_0_281/PAD                    td                    1.960       6.199 f       clk_100m_180deg_obuf/opit_0/O
+                                   net (fanout=1)        0.088       6.287         clk_100m_180deg  
+ A2                                                                        f       clk_100m_180deg (port)
+
+ Data arrival time                                                   6.287         Logic Levels: 7  
+                                                                                   Logic: 3.458ns(55.002%), Route: 2.829ns(44.998%)
+====================================================================================================
+
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_25m_75 (port)
+Path Group  : **default**
+Path Type   : min (fast corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 r       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    0.734       0.827 r       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       0.827         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.038       0.865 r       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.249       1.114         _N0              
+ PLL_82_319/CLK_OUT4               td                    0.322       1.436 r       u_pll_clk/u_pll_e1/goppll/CLKOUT4
+                                   net (fanout=1)        0.551       1.987         nt_clk_25m_75    
+ USCM_74_128/CLK_USCM              td                    0.000       1.987 r       USCMROUTE_3/CLKOUT
+                                   net (fanout=1)        1.300       3.287         ntR8             
+ CLMS_10_269/Y6AB                  td                    0.091       3.378 r       CLKROUTE_3/Z     
+                                   net (fanout=1)        0.172       3.550         ntR7             
+ IOL_7_265/DO                      td                    0.070       3.620 r       clk_25m_75_obuf/opit_1/O
+                                   net (fanout=1)        0.000       3.620         clk_25m_75_obuf/ntO
+ IOBS_0_265/PAD                    td                    1.522       5.142 r       clk_25m_75_obuf/opit_0/O
+                                   net (fanout=1)        0.079       5.221         clk_25m_75       
+ C2                                                                        r       clk_25m_75 (port)
+
+ Data arrival time                                                   5.221         Logic Levels: 7  
+                                                                                   Logic: 2.777ns(53.189%), Route: 2.444ns(46.811%)
+====================================================================================================
+
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_25m (port)
+Path Group  : **default**
+Path Type   : min (fast corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 r       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    0.734       0.827 r       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       0.827         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.038       0.865 r       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.249       1.114         _N0              
+ PLL_82_319/CLK_OUT3               td                    0.321       1.435 r       u_pll_clk/u_pll_e1/goppll/CLKOUT3
+                                   net (fanout=1)        0.551       1.986         nt_clk_25m       
+ USCM_74_129/CLK_USCM              td                    0.000       1.986 r       USCMROUTE_4/CLKOUT
+                                   net (fanout=1)        1.313       3.299         ntR10            
+ CLMA_10_256/Y6CD                  td                    0.093       3.392 r       CLKROUTE_4/Z     
+                                   net (fanout=1)        0.172       3.564         ntR9             
+ IOL_7_262/DO                      td                    0.070       3.634 r       clk_25m_obuf/opit_1/O
+                                   net (fanout=1)        0.000       3.634         clk_25m_obuf/ntO 
+ IOBD_0_262/PAD                    td                    1.582       5.216 r       clk_25m_obuf/opit_0/O
+                                   net (fanout=1)        0.042       5.258         clk_25m          
+ G4                                                                        r       clk_25m (port)   
+
+ Data arrival time                                                   5.258         Logic Levels: 7  
+                                                                                   Logic: 2.838ns(53.975%), Route: 2.420ns(46.025%)
+====================================================================================================
+
+====================================================================================================
+
+Startpoint  : sys_clk (port)
+Endpoint    : clk_100m_180deg (port)
+Path Group  : **default**
+Path Type   : min (fast corner)
+Path Class  : combinational timing path
+
+ Location                          Delay Type             Incr        Path         Logical Resource 
+----------------------------------------------------------------------------------------------------
+
+
+ B5                                                      0.000       0.000 r       sys_clk (port)   
+                                   net (fanout=1)        0.093       0.093         sys_clk          
+ IOBD_0_298/DIN                    td                    0.734       0.827 r       sys_clk_ibuf/opit_0/O
+                                   net (fanout=1)        0.000       0.827         sys_clk_ibuf/ntD 
+ IOL_7_298/INCK                    td                    0.038       0.865 r       sys_clk_ibuf/opit_1/INCK
+                                   net (fanout=1)        0.249       1.114         _N0              
+ PLL_82_319/CLK_OUT1               td                    0.319       1.433 r       u_pll_clk/u_pll_e1/goppll/CLKOUT1
+                                   net (fanout=1)        0.551       1.984         nt_clk_100m_180deg
+ USCM_74_133/CLK_USCM              td                    0.000       1.984 r       USCMROUTE_0/CLKOUT
+                                   net (fanout=1)        1.283       3.267         ntR2             
+ CLMS_10_285/Y6AB                  td                    0.091       3.358 r       CLKROUTE_0/Z     
+                                   net (fanout=1)        0.172       3.530         ntR1             
+ IOL_7_281/DO                      td                    0.070       3.600 r       clk_100m_180deg_obuf/opit_1/O
+                                   net (fanout=1)        0.000       3.600         clk_100m_180deg_obuf/ntO
+ IOBS_0_281/PAD                    td                    1.582       5.182 r       clk_100m_180deg_obuf/opit_0/O
+                                   net (fanout=1)        0.088       5.270         clk_100m_180deg  
+ A2                                                                        r       clk_100m_180deg (port)
+
+ Data arrival time                                                   5.270         Logic Levels: 7  
+                                                                                   Logic: 2.834ns(53.776%), Route: 2.436ns(46.224%)
+====================================================================================================
+
+====================================================================================================
+
+Inputs and Outputs :
++--------------------------------------------------------------------------------------+
+| Type       | File Name                                                              
++--------------------------------------------------------------------------------------+
+| Input      | C:/Users/ch/Desktop/2022.1/ip_pll/prj/place_route/ip_pll_pnr.adf       
+| Output     | C:/Users/ch/Desktop/2022.1/ip_pll/prj/report_timing/ip_pll_rtp.adf     
+|            | C:/Users/ch/Desktop/2022.1/ip_pll/prj/report_timing/ip_pll.rtr         
+|            | C:/Users/ch/Desktop/2022.1/ip_pll/prj/report_timing/rtr.db             
++--------------------------------------------------------------------------------------+
+
+
+Flow Command: report_timing 
+Peak memory: 625 MB
+Total CPU  time to report_timing completion : 0h:0m:3s
+Process Total CPU  time to report_timing completion : 0h:0m:3s
+Total real time to report_timing completion : 0h:0m:5s

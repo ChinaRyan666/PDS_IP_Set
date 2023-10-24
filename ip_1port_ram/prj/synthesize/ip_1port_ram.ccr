@@ -1,0 +1,71 @@
+##### Written on 2022/11/05 16:34:54 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL22G-6MBG324
+
+Top Module : 
+	ip_1port_ram
+
+Constraint File(s) : 
+	F:/1_Verilog/11_ip_1port_ram/prj/ip_1port_ram.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 0 critical warning(s), 23 warning(s), out of 11 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+
+
+
+
+
+Constraints with issues:
+********************************************
+
+
+
+
+
+
+
+
+
+W: ConstraintEditor-4019: Port 'addra[0]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'addra[1]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'addra[2]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'addra[3]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'addra[4]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'dina[0]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'dina[1]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'dina[2]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'dina[3]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'dina[4]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'dina[5]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'dina[6]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'dina[7]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'douta[0]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'douta[1]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'douta[2]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'douta[3]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'douta[4]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'douta[5]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'douta[6]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'douta[7]' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'ena' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port 'wea' unspecified I/O constraint.
+
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+
+
+
+

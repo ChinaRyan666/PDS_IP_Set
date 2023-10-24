@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_rd.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_wr.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.idf</data>
+            <data>IP</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="6">
+        <column_headers>
+            <data>Cpu Time (s)</data>
+            <data>Real Time (s)</data>
+            <data>Peak Memory (B)</data>
+            <data>Operation System</data>
+            <data>CPU</data>
+            <data>RAM(GB)</data>
+        </column_headers>
+        <row>
+            <data>0.921875</data>
+            <data>3</data>
+            <data>102,969,344</data>
+            <data>WINDOWS 10 x86_64</data>
+            <data>AMD Ryzen 9 5900X 12-Core Processor</data>
+            <data>15</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data message="4">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 23)] Analyzing module ip_fifo (library work)</data>
+        </row>
+        <row>
+            <data message="4">[C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 29)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 30)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 31)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 32)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 33)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 34)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 35)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 36)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 37)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">[C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 38)] Convert attribute name from syn_keep to PAP_KEEP</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_rd.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_rd.v(line number: 23)] Analyzing module fifo_rd (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_wr.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_wr.v(line number: 23)] Analyzing module fifo_wr (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_ctrl_v1_3.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_ctrl_v1_3.v(line number: 21)] Analyzing module ipml_fifo_ctrl_v1_3 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 20)] Analyzing module ipml_sdpram_v1_6_fifo_generator_0 (library work)</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 309)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 310)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 313)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 317)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 321)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 325)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 329)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 330)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 333)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 334)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 337)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 338)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 341)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 342)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 345)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 346)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 349)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 350)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 353)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 354)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 357)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 358)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 361)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 362)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 365)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 366)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 369)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 370)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 374)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 375)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 378)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 379)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 383)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 384)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 387)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 388)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 391)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 392)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 395)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 396)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 399)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 400)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 405)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 406)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 409)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 410)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 415)] Ignore 'system task' $display</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2008: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 416)] Ignore 'system task' $finish</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2010: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 307)] Ignore initial statements except memory $readmemh/$readmemb initialization statements</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_v1_6_fifo_generator_0.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_v1_6_fifo_generator_0.v(line number: 25)] Analyzing module ipml_fifo_v1_6_fifo_generator_0 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v(line number: 18)] Analyzing module fifo_generator_0 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Module &quot;ip_fifo&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 23)] Elaborating module ip_fifo</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 82)] Elaborating instance u_fifo_generator_0</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v(line number: 18)] Elaborating module fifo_generator_0</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/fifo_generator_0.v(line number: 164)] Elaborating instance U_ipml_fifo_fifo_generator_0</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_v1_6_fifo_generator_0.v(line number: 25)] Elaborating module ipml_fifo_v1_6_fifo_generator_0</data>
+        </row>
+        <row>
+            <data message="4">Module instance {ip_fifo.u_fifo_generator_0.U_ipml_fifo_fifo_generator_0} parameter value:
+    c_SIM_DEVICE = PGL22G
+    c_WR_DEPTH_WIDTH = 32'b00000000000000000000000000001000
+    c_WR_DATA_WIDTH = 32'b00000000000000000000000000001000
+    c_RD_DEPTH_WIDTH = 32'b00000000000000000000000000001000
+    c_RD_DATA_WIDTH = 32'b00000000000000000000000000001000
+    c_OUTPUT_REG = 32'b00000000000000000000000000000000
+    c_RD_OCE_EN = 32'b00000000000000000000000000000000
+    c_RESET_TYPE = ASYNC_RESET
+    c_POWER_OPT = 32'b00000000000000000000000000000000
+    c_RD_CLK_OR_POL_INV = 32'b00000000000000000000000000000000
+    c_WR_BYTE_EN = 32'b00000000000000000000000000000000
+    c_BE_WIDTH = 32'b00000000000000000000000000000001
+    c_FIFO_TYPE = ASYN
+    c_ALMOST_FULL_NUM = 32'b00000000000000000000000011111100
+    c_ALMOST_EMPTY_NUM = 32'b00000000000000000000000000000100</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_v1_6_fifo_generator_0.v(line number: 93)] Elaborating instance U_ipml_sdpram</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 20)] Elaborating module ipml_sdpram_v1_6_fifo_generator_0</data>
+        </row>
+        <row>
+            <data message="4">Module instance {ip_fifo.u_fifo_generator_0.U_ipml_fifo_fifo_generator_0.U_ipml_sdpram} parameter value:
+    c_SIM_DEVICE = PGL22G
+    c_WR_ADDR_WIDTH = 32'b00000000000000000000000000001000
+    c_WR_DATA_WIDTH = 32'b00000000000000000000000000001000
+    c_RD_ADDR_WIDTH = 32'b00000000000000000000000000001000
+    c_RD_DATA_WIDTH = 32'b00000000000000000000000000001000
+    c_OUTPUT_REG = 32'b00000000000000000000000000000000
+    c_RD_OCE_EN = 32'b00000000000000000000000000000000
+    c_WR_ADDR_STROBE_EN = 32'b00000000000000000000000000000000
+    c_RD_ADDR_STROBE_EN = 32'b00000000000000000000000000000000
+    c_WR_CLK_EN = 32'b00000000000000000000000000000001
+    c_RD_CLK_EN = 32'b00000000000000000000000000000001
+    c_RD_CLK_OR_POL_INV = 32'b00000000000000000000000000000000
+    c_RESET_TYPE = ASYNC_RESET
+    c_POWER_OPT = 32'b00000000000000000000000000000000
+    c_INIT_FILE = NONE
+    c_INIT_FORMAT = BIN
+    c_WR_BYTE_EN = 32'b00000000000000000000000000000000
+    c_BE_WIDTH = 32'b00000000000000000000000000000001</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2039: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 476)] Repeat multiplier in concatenation evaluates to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 486)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 487)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 488)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 489)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 489)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 490)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 490)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2039: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 622)] Repeat multiplier in concatenation evaluates to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 682)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 683)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 684)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 685)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 685)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 686)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2038: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 686)] Case condition never applies</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 852)] Elaborating instance U_GTP_DRM9K</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 773)] Net DA_bus[8] in ipml_sdpram_v1_6_fifo_generator_0(original module ipml_sdpram_v1_6_fifo_generator_0) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 773)] Net DA_bus[17] in ipml_sdpram_v1_6_fifo_generator_0(original module ipml_sdpram_v1_6_fifo_generator_0) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 774)] Net DB_bus[8] in ipml_sdpram_v1_6_fifo_generator_0(original module ipml_sdpram_v1_6_fifo_generator_0) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2020: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_sdpram_v1_6_fifo_generator_0.v(line number: 774)] Net DB_bus[17] in ipml_sdpram_v1_6_fifo_generator_0(original module ipml_sdpram_v1_6_fifo_generator_0) does not have a driver, tie it to 0</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_v1_6_fifo_generator_0.v(line number: 121)] Elaborating instance U_ipml_fifo_ctrl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_ctrl_v1_3.v(line number: 21)] Elaborating module ipml_fifo_ctrl_v1_3</data>
+        </row>
+        <row>
+            <data message="4">Module instance {ip_fifo.u_fifo_generator_0.U_ipml_fifo_fifo_generator_0.U_ipml_fifo_ctrl} parameter value:
+    c_WR_DEPTH_WIDTH = 32'b00000000000000000000000000001000
+    c_RD_DEPTH_WIDTH = 32'b00000000000000000000000000001000
+    c_FIFO_TYPE = ASYN
+    c_ALMOST_FULL_NUM = 32'b00000000000000000000000011111100
+    c_ALMOST_EMPTY_NUM = 32'b00000000000000000000000000000100</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2039: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj/ipcore/fifo_generator_0/rtl/ipml_fifo_ctrl_v1_3.v(line number: 196)] Repeat multiplier in concatenation evaluates to 0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2019: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 88)] Width mismatch between port wr_water_level and signal bound to it for instantiated module fifo_generator_0</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2019: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 95)] Width mismatch between port rd_water_level and signal bound to it for instantiated module fifo_generator_0</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 100)] Elaborating instance u_fifo_wr</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_wr.v(line number: 23)] Elaborating module fifo_wr</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/ip_fifo.v(line number: 111)] Elaborating instance u_fifo_rd</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/rtl/fifo_rd.v(line number: 23)] Elaborating module fifo_rd</data>
+        </row>
+        <row>
+            <data message="4">FSM state_fsm[1:0] inferred.</data>
+        </row>
+        <row>
+            <data message="4">FSM state_fsm[1:0] inferred.</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N74_8 (bmsREDXOR).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N29 (bmsREDXOR).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N7_8 (bmsREDXOR).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N96 (bmsREDXOR).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N39 (bmsREDXOR).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N106 (bmsREDXOR).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N49 (bmsREDXOR).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N116 (bmsREDXOR).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N59 (bmsREDXOR).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N126 (bmsREDXOR).</data>
+        </row>
+        <row>
+            <data message="4">Adm-6003: Trying to disconnect un-connected pin 'Z[0]' of instance 'N57_1'.</data>
+        </row>
+    </table>
+    <general_container id="compile_settings">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PGL22G-6MBG324</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>ip_fifo</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>SystemVerilog</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Allow Duplicate Modules</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>C:/Users/ch/Desktop/2021.4-SP1.2/ip_fifo/prj	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>
